@@ -1,0 +1,2825 @@
+{
+    "Items": [
+        {
+            "Name": "限りなく灰色へ (向着无尽之灰)",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "0012d6b6ddf78ebbb8ed64f36ab2b8dd",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2724577780,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "25時、ナイトコードで。-25時、ナイトコードで。-0000限りなく灰色へ (向着无尽之灰)",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "25時、ナイトコードで。"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "25時、ナイトコードで。",
+                    "Id": "41d00f61438b48bcd2b54206cb9acfbf"
+                }
+            ],
+            "Album": "25時、ナイトコードで。",
+            "AlbumId": "ed3555614dab7e499c812653b341e8e9",
+            "AlbumPrimaryImageTag": "dda902e6c40a6d9f2895eeec130c7d41",
+            "AlbumArtist": "25時、ナイトコードで。",
+            "AlbumArtists": [
+                {
+                    "Name": "25時、ナイトコードで。",
+                    "Id": "41d00f61438b48bcd2b54206cb9acfbf"
+                }
+            ],
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "dda902e6c40a6d9f2895eeec130c7d41": "ePNv[MM{SxtRS$_N%1%2%MtRO]M|V@%Mxa-?%3-pofRlI;V@V@tRof"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "カナデトモスソラ (奏明天空)",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "99b8c239b34f500fa348f91c526d5b45",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2574000000,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "25時、ナイトコードで。-25時、ナイトコードで。-0000カナデトモスソラ (奏明天空)",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "25時、ナイトコードで。"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "25時、ナイトコードで。",
+                    "Id": "41d00f61438b48bcd2b54206cb9acfbf"
+                }
+            ],
+            "Album": "25時、ナイトコードで。",
+            "AlbumId": "ed3555614dab7e499c812653b341e8e9",
+            "AlbumPrimaryImageTag": "dda902e6c40a6d9f2895eeec130c7d41",
+            "AlbumArtist": "25時、ナイトコードで。",
+            "AlbumArtists": [
+                {
+                    "Name": "25時、ナイトコードで。",
+                    "Id": "41d00f61438b48bcd2b54206cb9acfbf"
+                }
+            ],
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "dda902e6c40a6d9f2895eeec130c7d41": "ePNv[MM{SxtRS$_N%1%2%MtRO]M|V@%Mxa-?%3-pofRlI;V@V@tRof"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "星を繋ぐ (feat. 初音ミク)",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "6f4b537a61f8d7f753e338ad026d02cb",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2069142400,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "40mP-星を繋ぐ-0000星を繋ぐ (feat. 初音ミク)",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "40mP",
+                "一二三"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "40mP",
+                    "Id": "49587a83aa3afe1ac9c1e2f005af561e"
+                },
+                {
+                    "Name": "一二三",
+                    "Id": "11069ac3cffdabd0787bb864ae29ab81"
+                }
+            ],
+            "Album": "星を繋ぐ",
+            "AlbumId": "2e110490e20cbd28346e99054d91d523",
+            "AlbumPrimaryImageTag": "bdfafc3bc932aabcf7ac245ddbbd5962",
+            "AlbumArtist": "40mP",
+            "AlbumArtists": [
+                {
+                    "Name": "40mP",
+                    "Id": "49587a83aa3afe1ac9c1e2f005af561e"
+                },
+                {
+                    "Name": "一二三",
+                    "Id": "11069ac3cffdabd0787bb864ae29ab81"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "76d6224bcda1a296d5039153efc6412e"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "76d6224bcda1a296d5039153efc6412e": "eD9%ZIDzs=?I9G9,t6auNZW9RhWTNFn$oZoRWQohj{t6E0xrWFRnx]",
+                    "bdfafc3bc932aabcf7ac245ddbbd5962": "eD9%ZIDzs=?I9G9,t6auNZW9RhWTNFn$oZoRWQohj{t6E0xrWFRnx]"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "嘘つきは恋のはじまり",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "766885adc5450fd66ec259a706c6e060",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2532260090,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "ParentBackdropItemId": "685343ece10a29421d897efd07dc7850",
+            "ParentBackdropImageTags": [
+                "c141ab8bec39f970cae3ae9bfd4cc27b"
+            ],
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "洛天依-嘘つきは恋のはじまり-0000嘘つきは恋のはじまり",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "洛天依",
+                "40mP"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "洛天依",
+                    "Id": "685343ece10a29421d897efd07dc7850"
+                },
+                {
+                    "Name": "40mP",
+                    "Id": "49587a83aa3afe1ac9c1e2f005af561e"
+                }
+            ],
+            "Album": "嘘つきは恋のはじまり",
+            "AlbumId": "3f5999fb8808934dda236608175f8f72",
+            "AlbumPrimaryImageTag": "fb22fb46400d3fa5990c92ff16add6c7",
+            "AlbumArtist": "洛天依",
+            "AlbumArtists": [
+                {
+                    "Name": "洛天依",
+                    "Id": "685343ece10a29421d897efd07dc7850"
+                },
+                {
+                    "Name": "40mP",
+                    "Id": "49587a83aa3afe1ac9c1e2f005af561e"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "c5d181caddbc897d562a9ad6bf59c5ba"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "c5d181caddbc897d562a9ad6bf59c5ba": "ekQ9=x-;%#yDxG_4axWAkDV@-pkDNGs+Rk-pf6WBoft7R+j?j?WXs.",
+                    "fb22fb46400d3fa5990c92ff16add6c7": "ekQ9=x-;%#yDxG_4axWAkDV@-pkDNGs+Rk-pf6WBoft7R+j?j?WXs."
+                },
+                "Backdrop": {
+                    "c141ab8bec39f970cae3ae9bfd4cc27b": "WsOVSuxu--%2Ri%0_MtQxutQV@t6yWV[WrozRjWV?Ft6Rka#kCjs"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "だんだん早くなる",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "8d77479781bf07b2a58491a49ff14614",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 1378832650,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "40mP-だんだん早くなる-0000だんだん早くなる",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "40mP",
+                "初音 ミク"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "40mP",
+                    "Id": "49587a83aa3afe1ac9c1e2f005af561e"
+                },
+                {
+                    "Name": "初音 ミク",
+                    "Id": "cf688da771220a9e314862fea2f33442"
+                }
+            ],
+            "Album": "だんだん早くなる",
+            "AlbumId": "049e8d56031cfdafad485cf40ea2199f",
+            "AlbumPrimaryImageTag": "3995cafd94aca787e64d621ae20d3f5f",
+            "AlbumArtist": "40mP",
+            "AlbumArtists": [
+                {
+                    "Name": "40mP",
+                    "Id": "49587a83aa3afe1ac9c1e2f005af561e"
+                },
+                {
+                    "Name": "初音 ミク",
+                    "Id": "cf688da771220a9e314862fea2f33442"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "9a7df3c185963244c4d677f4367d0a94"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "9a7df3c185963244c4d677f4367d0a94": "eLO#7y_NS6%i$~u5WXRkRms.~8af-TxZNK_Nt6oL%Kt6xZn%t6ayRk",
+                    "3995cafd94aca787e64d621ae20d3f5f": "eLO#7y_NS6%i$~u5WXRkRms.~8af-TxZNK_Nt6oL%Kt6xZn%t6ayRk"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "9を眺めた魚達",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "34c582e739f366798c58a221c313c693",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2754801870,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "957-9を眺めた魚達-00009を眺めた魚達",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "957"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "957",
+                    "Id": "71e50916620579b9c524d917280281b6"
+                }
+            ],
+            "Album": "9を眺めた魚達",
+            "AlbumId": "b9fabe59c2aec2182f75eee92e758812",
+            "AlbumPrimaryImageTag": "19b5a495c882415fc83a2fe646a4e3fd",
+            "AlbumArtist": "957",
+            "AlbumArtists": [
+                {
+                    "Name": "957",
+                    "Id": "71e50916620579b9c524d917280281b6"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "4628d81e948124769b9abb64ef0fe6e8"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "4628d81e948124769b9abb64ef0fe6e8": "eLDu-*oz0gs:niRjocS#Rkni^h%1ENRkja-ooyNGM|soazxsbHRkoM",
+                    "19b5a495c882415fc83a2fe646a4e3fd": "eLDu-*oz0gs:niRjocS#Rkni^h%1ENRkja-ooyNGM|soazxsbHRkoM"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "君が笑って仕舞えば",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "e9752d98a0a5c591842aa40e9332646e",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2389084810,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "957-君が笑って仕舞えば-0000君が笑って仕舞えば",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "957"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "957",
+                    "Id": "71e50916620579b9c524d917280281b6"
+                }
+            ],
+            "Album": "君が笑って仕舞えば",
+            "AlbumId": "61b2a27630446fd5d1b7f98ab47b717e",
+            "AlbumPrimaryImageTag": "710e1aa3abca38cc18dd03faf009459e",
+            "AlbumArtist": "957",
+            "AlbumArtists": [
+                {
+                    "Name": "957",
+                    "Id": "71e50916620579b9c524d917280281b6"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "bc46590d1b6dbd0ee03daad2aea611cf"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "bc46590d1b6dbd0ee03daad2aea611cf": "elEpA_n%oHx[oJ0LkCWYM{WWwIRkj[ofoL%Ls:oKj@ayIVa}WCWBf7",
+                    "710e1aa3abca38cc18dd03faf009459e": "elEpA_n%oHx[oJ0LkCWYM{WWwIRkj[ofoL%Ls:oKj@ayIVa}WCWBf7"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "你呀你呀你",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "c558ea387ba93e1eb201bd5828dd536a",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2160000000,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "A-Flow-你呀你呀你-0000你呀你呀你",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "A-Flow"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "A-Flow",
+                    "Id": "56b5caedc4ae067521430bbeae4e2d22"
+                }
+            ],
+            "Album": "你呀你呀你",
+            "AlbumId": "ec9708a8cf4916088674068b4ffe52be",
+            "AlbumPrimaryImageTag": "c51c6a8558ae305ef58eb7e367cea382",
+            "AlbumArtist": "A-Flow",
+            "AlbumArtists": [
+                {
+                    "Name": "A-Flow",
+                    "Id": "56b5caedc4ae067521430bbeae4e2d22"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "46b640a8703e2f099d086889fc10d834"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "46b640a8703e2f099d086889fc10d834": "e+Muzo-pxaxvsp1ZayoMkCoMOWS1NGjGbH%NWVWBWBR*R%j[s:X7WB",
+                    "c51c6a8558ae305ef58eb7e367cea382": "e+Muzo-pxaxvsp1ZayoMkCoMOWS1NGjGbH%NWVWBWBR*R%j[s:X7WB"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "いつ逢えたら",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "2c8b4ca67a1f646bedce61ab0dd2e7ef",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2452396150,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "ParentLogoItemId": "47e40a8abd21a35ff8c1cccb4e7995f3",
+            "ParentBackdropItemId": "47e40a8abd21a35ff8c1cccb4e7995f3",
+            "ParentBackdropImageTags": [
+                "1dbdf6ad8e982a21b81aef6bf3717caf"
+            ],
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "aiko-いつ逢えたら-0000いつ逢えたら",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "aiko"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "aiko",
+                    "Id": "47e40a8abd21a35ff8c1cccb4e7995f3"
+                }
+            ],
+            "Album": "いつ逢えたら",
+            "AlbumId": "5f9ce78af9e954aed81c638209fb584b",
+            "AlbumPrimaryImageTag": "d88842acdc93da922670fcdd5c3ce3e6",
+            "AlbumArtist": "aiko",
+            "AlbumArtists": [
+                {
+                    "Name": "aiko",
+                    "Id": "47e40a8abd21a35ff8c1cccb4e7995f3"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "81e80d755bb37f0cce0dc52254579e26"
+            },
+            "BackdropImageTags": [],
+            "ParentLogoImageTag": "289fed6183825392bea940c3019b955e",
+            "ImageBlurHashes": {
+                "Primary": {
+                    "81e80d755bb37f0cce0dc52254579e26": "eFCsjjRjM{ofD%~qIURjxuM{D%M{M{%Mt7xuxuofRjj[%Mj[xuM{M{",
+                    "d88842acdc93da922670fcdd5c3ce3e6": "eFCsjjRjM{ofD%~qIURjxuM{D%M{M{%Mt7xuxuofRjj[%Mj[xuM{M{"
+                },
+                "Logo": {
+                    "289fed6183825392bea940c3019b955e": "OMQ,L1of4nof4nxu4n-;ofayj[WBWBWB00j[t7fQofj[t7"
+                },
+                "Backdrop": {
+                    "1dbdf6ad8e982a21b81aef6bf3717caf": "WLH-3|mP.SShVq?aGaOA={X9S1t7I@ODxY%1t6t6}?r=S#t6-T-o"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "はるのとなり（《摇曳露营△》第二季ED）（翻自 佐々木恵梨）",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "1bbcedee649018a7a71eed4c79ed53e8",
+            "HasLyrics": true,
+            "Container": "mp3",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2183053060,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Akie秋绘-はるのとなり（与春为邻）-0000はるのとなり（《摇曳露营△》第二季ED）（翻自 佐々木恵梨）",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "Akie秋绘"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "Akie秋绘",
+                    "Id": "e533ecfc7336aa403a22f58476c3a1ef"
+                }
+            ],
+            "Album": "はるのとなり（与春为邻）",
+            "AlbumId": "50d929aecbc8c0db95a5f99cccd7b57b",
+            "AlbumPrimaryImageTag": "d72779b890f9bdb1ca5beecffd51a907",
+            "AlbumArtist": "Akie秋绘",
+            "AlbumArtists": [
+                {
+                    "Name": "Akie秋绘",
+                    "Id": "e533ecfc7336aa403a22f58476c3a1ef"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "6023cea733753d1b6be5c0b926ce5d71"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "6023cea733753d1b6be5c0b926ce5d71": "eIC?T9WAM{%1M{xuxas:WBRj0KWBxuWBt7aeM{WVofof9ZxuWBR*ay",
+                    "d72779b890f9bdb1ca5beecffd51a907": "eIC?T9WAM{%1M{xuxas:WBRj0KWBxuWBt7aeM{WVofof9ZxuWBR*ay"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "雨き声残響",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "3a6818fc2a5bf48fb3e5964fa59112a5",
+            "HasLyrics": true,
+            "Container": "mp3",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 1714938780,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Akie秋绘-雨声残响-0000雨き声残響",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "Akie秋绘"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "Akie秋绘",
+                    "Id": "e533ecfc7336aa403a22f58476c3a1ef"
+                }
+            ],
+            "Album": "雨声残响",
+            "AlbumId": "0c8b37bb2e40d1cf0d22d602fe228aee",
+            "AlbumPrimaryImageTag": "8f7cb3487a69d58bda6db45057dd1339",
+            "AlbumArtist": "Akie秋绘",
+            "AlbumArtists": [
+                {
+                    "Name": "Akie秋绘",
+                    "Id": "e533ecfc7336aa403a22f58476c3a1ef"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "291825bec2443a0d3f7c8f9cb1831d8c"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "291825bec2443a0d3f7c8f9cb1831d8c": "eSG8$i%M00RQxu?IaxM{oMoLIVWAxukCWBWZs:WBRkofR+ocWAafkC",
+                    "8f7cb3487a69d58bda6db45057dd1339": "eSG8$i%M00RQxu?IaxM{oMoLIVWAxukCWBWZs:WBRkofR+ocWAafkC"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "なんでもないや 没什么大不了的（翻自 Radwimps）",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "487d034dd35c02cd787008abb0399be7",
+            "HasLyrics": true,
+            "Container": "mp3",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 3470106120,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Akie秋绘-冬氤。2016-17-0000なんでもないや 没什么大不了的（翻自 Radwimps）",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "Akie秋绘"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "Akie秋绘",
+                    "Id": "e533ecfc7336aa403a22f58476c3a1ef"
+                }
+            ],
+            "Album": "冬氤。2016-17",
+            "AlbumId": "97bc7202aa1fa508aa01e062e500e968",
+            "AlbumPrimaryImageTag": "001ccc080c36336ae3ce917933083f8b",
+            "AlbumArtist": "Akie秋绘",
+            "AlbumArtists": [
+                {
+                    "Name": "Akie秋绘",
+                    "Id": "e533ecfc7336aa403a22f58476c3a1ef"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "89facbeacbcef24a155673eac4a9b814"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "89facbeacbcef24a155673eac4a9b814": "ePR:HG%Mxu~qj[~qt7Rjofof-;t7ofxut7_3fQj[ayWBxu%MayM{M{",
+                    "001ccc080c36336ae3ce917933083f8b": "ePR:HG%Mxu~qj[~qt7Rjofof-;t7ofxut7_3fQj[ayWBxu%MayM{M{"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "アスノヨゾラ哨戒班。明日的夜空哨戒班（Cover IA）",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "4b872babacaf369ad5a2434f78924432",
+            "HasLyrics": true,
+            "Container": "mp3",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2350759180,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Akie秋绘-春雫。2017-0000アスノヨゾラ哨戒班。明日的夜空哨戒班（Cover IA）",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "Akie秋绘",
+                "夏璃夜"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "Akie秋绘",
+                    "Id": "e533ecfc7336aa403a22f58476c3a1ef"
+                },
+                {
+                    "Name": "夏璃夜",
+                    "Id": "1e188e57f17d83f190e339868a4b9fe6"
+                }
+            ],
+            "Album": "春雫。2017",
+            "AlbumId": "90b8baee0c5528063f4a4be9aacd8903",
+            "AlbumPrimaryImageTag": "c4ff64a158d3c2d78cd0f7848d3283cc",
+            "AlbumArtist": "Akie秋绘",
+            "AlbumArtists": [
+                {
+                    "Name": "Akie秋绘",
+                    "Id": "e533ecfc7336aa403a22f58476c3a1ef"
+                },
+                {
+                    "Name": "夏璃夜",
+                    "Id": "1e188e57f17d83f190e339868a4b9fe6"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "0466204f4294a1576615b0e9d457e9d3"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "0466204f4294a1576615b0e9d457e9d3": "eLNIpp~pNEn5sp#7WA?ctRax%tSIUkSI:odM_DixvRlaJxaRQentQ",
+                    "c4ff64a158d3c2d78cd0f7848d3283cc": "eLNIpp~pNEn5sp#7WA?ctRax%tSIUkSI:odM_DixvRlaJxaRQentQ"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "約束",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "62335b092efaf5d13fdb84b4eb63ed8b",
+            "HasLyrics": true,
+            "Container": "mp3",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2922579590,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Akie秋绘-约定-0000約束",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "Akie秋绘"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "Akie秋绘",
+                    "Id": "e533ecfc7336aa403a22f58476c3a1ef"
+                }
+            ],
+            "Album": "约定",
+            "AlbumId": "9c5c055b89463fdc4aa341adf4cdd8db",
+            "AlbumPrimaryImageTag": "84aa5e22fa6a2526ff8a2d7a0eff16d4",
+            "AlbumArtist": "Akie秋绘",
+            "AlbumArtists": [
+                {
+                    "Name": "Akie秋绘",
+                    "Id": "e533ecfc7336aa403a22f58476c3a1ef"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "34f01e9ef0a3f2ec091318d90a3ed34e"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "34f01e9ef0a3f2ec091318d90a3ed34e": "ekR..L_NtlxHx]%1tlafe-ozx]W=RPn$og-=jFWAofofV@aeofkDay",
+                    "84aa5e22fa6a2526ff8a2d7a0eff16d4": "ekR..L_NtlxHx]%1tlafe-ozx]W=RPn$og-=jFWAofofV@aeofkDay"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "时光盲盒（翻自 ChiliChill）",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "7f44ddfb790023ee96036f9a360de91a",
+            "HasLyrics": true,
+            "Container": "mp3",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2963069390,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Akie秋绘-时光盲盒-0000时光盲盒（翻自 ChiliChill）",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "Akie秋绘"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "Akie秋绘",
+                    "Id": "e533ecfc7336aa403a22f58476c3a1ef"
+                }
+            ],
+            "Album": "时光盲盒",
+            "AlbumId": "032e8905709e71740a2e8860750d124d",
+            "AlbumPrimaryImageTag": "f60e685ddf4a6642d318d481cdfbc2db",
+            "AlbumArtist": "Akie秋绘",
+            "AlbumArtists": [
+                {
+                    "Name": "Akie秋绘",
+                    "Id": "e533ecfc7336aa403a22f58476c3a1ef"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "cdddd4d3e9e81b488f128a8813184e8e"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "cdddd4d3e9e81b488f128a8813184e8e": "eXJ72_^+NYE0Ri~E-pxtNFRiEJob%L%2of=#oeoytQt7kBofW.WBR*",
+                    "f60e685ddf4a6642d318d481cdfbc2db": "eXJ72_^+NYE0Ri~E-pxtNFRiEJob%L%2of=#oeoytQt7kBofW.WBR*"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "心拍数♯0822（翻自 初音ミク）",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "962c3a8c12cc0ce119610d12c2fb50bc",
+            "HasLyrics": true,
+            "Container": "mp3",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2780734690,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Akie秋绘-冬氤。2016-17-0000心拍数♯0822（翻自 初音ミク）",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "Akie秋绘"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "Akie秋绘",
+                    "Id": "e533ecfc7336aa403a22f58476c3a1ef"
+                }
+            ],
+            "Album": "冬氤。2016-17",
+            "AlbumId": "97bc7202aa1fa508aa01e062e500e968",
+            "AlbumPrimaryImageTag": "001ccc080c36336ae3ce917933083f8b",
+            "AlbumArtist": "Akie秋绘",
+            "AlbumArtists": [
+                {
+                    "Name": "Akie秋绘",
+                    "Id": "e533ecfc7336aa403a22f58476c3a1ef"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "4487cd87b9fa3a2d3197eaba97793193"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "4487cd87b9fa3a2d3197eaba97793193": "ePR:HG%Mxu~qj[~qt7Rjofof-;t7ofxut7_3fQj[ayWBxu%MayM{M{",
+                    "001ccc080c36336ae3ce917933083f8b": "ePR:HG%Mxu~qj[~qt7Rjofof-;t7ofxut7_3fQj[ayWBxu%MayM{M{"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "When Christmas Comes to Town（Cover Matthew Hall, Meagan Moore）",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "cd8c69b20abcea2ceb6261dda716fde7",
+            "HasLyrics": true,
+            "Container": "mp3",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2515069390,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Akie秋绘-When Christmas Comes to Town-0000When Christmas Comes to Town（Cover Matthew Hall, Meagan Moore）",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "Akie秋绘"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "Akie秋绘",
+                    "Id": "e533ecfc7336aa403a22f58476c3a1ef"
+                }
+            ],
+            "Album": "When Christmas Comes to Town",
+            "AlbumId": "6fb4b773dba18480f4c9d6075a472371",
+            "AlbumPrimaryImageTag": "9c69d1f32c03d3f985adc6817c7cfee9",
+            "AlbumArtist": "Akie秋绘",
+            "AlbumArtists": [
+                {
+                    "Name": "Akie秋绘",
+                    "Id": "e533ecfc7336aa403a22f58476c3a1ef"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "d9602b6258ca3485e2de0087b3347907"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "d9602b6258ca3485e2de0087b3347907": "eXDm%htRT2f-M{MyR+D*s;e.?wX9ROjcae-;tRbcjYIoNLR*RjWDR+",
+                    "9c69d1f32c03d3f985adc6817c7cfee9": "eXDm%htRT2f-M{MyR+D*s;e.?wX9ROjcae-;tRbcjYIoNLR*RjWDR+"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "The Loneliest Girl（翻自 Nai Br.XX）",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "e5146249a2f74bb050b23921de93cb36",
+            "HasLyrics": true,
+            "Container": "mp3",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 1163232650,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 1,
+                "IsFavorite": false,
+                "LastPlayedDate": "2025-03-23T10:30:24.441857Z",
+                "Played": true,
+                "Key": "Akie秋绘-The Loneliest Girl-0000The Loneliest Girl（翻自 Nai Br.XX）",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "Akie秋绘",
+                "夏璃夜"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "Akie秋绘",
+                    "Id": "e533ecfc7336aa403a22f58476c3a1ef"
+                },
+                {
+                    "Name": "夏璃夜",
+                    "Id": "1e188e57f17d83f190e339868a4b9fe6"
+                }
+            ],
+            "Album": "The Loneliest Girl",
+            "AlbumId": "e009e5a7337009179ba92616346137f5",
+            "AlbumPrimaryImageTag": "6dfbd255185a099746d753e11c7fba91",
+            "AlbumArtist": "Akie秋绘",
+            "AlbumArtists": [
+                {
+                    "Name": "Akie秋绘",
+                    "Id": "e533ecfc7336aa403a22f58476c3a1ef"
+                },
+                {
+                    "Name": "夏璃夜",
+                    "Id": "1e188e57f17d83f190e339868a4b9fe6"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "de9a84d06e469b5413822afb46e14af4"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "de9a84d06e469b5413822afb46e14af4": "eRHd~Q024;owWAyCRjWBWDt74:xujbt6xtsAt7V[t5R*ENs,t6WBV[",
+                    "6dfbd255185a099746d753e11c7fba91": "eRHd~Q024;owWAyCRjWBWDt74:xujbt6xtsAt7V[t5R*ENs,t6WBV["
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "Echo over you...",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "a7c51eed0f170e4ffada752e3b827d1a",
+            "HasLyrics": false,
+            "Container": "mp3",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 1584000000,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Deemo Ⅱ-花雨旋律 DEEMO II ( Deemo 2 deemo2 )-0000Echo over you...",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "Apo11o program"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "Apo11o program",
+                    "Id": "a5a15ce297db5bfbd79c61ef76c5fd99"
+                }
+            ],
+            "Album": "花雨旋律 DEEMO II ( Deemo 2 deemo2 )",
+            "AlbumId": "748c502e262e6ffaf8b5892fff830c3b",
+            "AlbumPrimaryImageTag": "5d880b3e7bd8086130953ae12db8fe0d",
+            "AlbumArtist": "Deemo Ⅱ",
+            "AlbumArtists": [
+                {
+                    "Name": "Deemo Ⅱ",
+                    "Id": "d28726ec889114c58c5cc005f7f71754"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "6985214adefa384f1a9079ba0daa08ef"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "6985214adefa384f1a9079ba0daa08ef": "eLAwCvxu9FR%RoRQjubIR*f501WB%Mo2s,%LR*jExtj^RkM|j[ofay",
+                    "5d880b3e7bd8086130953ae12db8fe0d": "eLAwCvxu9FR%RoRQjubIR*f501WB%Mo2s,%LR*jExtj^RkM|j[ofay"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "迷える音色は恋の唄 (A Wandering Melody of Love)",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "f3e3e91d4757e34d50a581cef4d6f015",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 1338939370,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Arcaea_Team-迷える音色は恋の唄-0000迷える音色は恋の唄 (A Wandering Melody of Love)",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "Arcaea_Team"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "Arcaea_Team",
+                    "Id": "4a5f5d0af71e4a92be8e05a534c1844c"
+                }
+            ],
+            "Album": "迷える音色は恋の唄",
+            "AlbumId": "aeb2ba3a91d9eb805df0fb8964ba8779",
+            "AlbumPrimaryImageTag": "bea552c850610bb42dbc5c84cb37deac",
+            "AlbumArtist": "Arcaea_Team",
+            "AlbumArtists": [
+                {
+                    "Name": "Arcaea_Team",
+                    "Id": "4a5f5d0af71e4a92be8e05a534c1844c"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "c2828052f595e73b657fad9b06ba6b4d"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "c2828052f595e73b657fad9b06ba6b4d": "ecO_~OTd%M-;yC~os=cDOXt7R%wdxuiwaJ^kocWBxtRjS1a$o}S#RQ",
+                    "bea552c850610bb42dbc5c84cb37deac": "ecO_~OTd%M-;yC~os=cDOXt7R%wdxuiwaJ^kocWBxtRjS1a$o}S#RQ"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "ハッピーエンド",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "db557da1b9d3c361e3d4526857c704e8",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 3142799999,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "ParentLogoItemId": "c0066c48fb354f8318c9fb313f1d632d",
+            "ParentBackdropItemId": "c0066c48fb354f8318c9fb313f1d632d",
+            "ParentBackdropImageTags": [
+                "afb6f4ecb71edb938af2299d88898fbd"
+            ],
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "back number-Tokyo Beats-0000ハッピーエンド",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "back number"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "back number",
+                    "Id": "c0066c48fb354f8318c9fb313f1d632d"
+                }
+            ],
+            "Album": "Tokyo Beats",
+            "AlbumId": "ce3f7db295f35dd4bdbe254a0e1af477",
+            "AlbumPrimaryImageTag": "e444d5bb39d0baf15466efe37a95a771",
+            "AlbumArtist": "back number",
+            "AlbumArtists": [
+                {
+                    "Name": "back number",
+                    "Id": "c0066c48fb354f8318c9fb313f1d632d"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "4a544b03229f001921d3fb02d5b423a2"
+            },
+            "BackdropImageTags": [],
+            "ParentLogoImageTag": "dcfe8e65dd5f11ae70607b59936fba83",
+            "ImageBlurHashes": {
+                "Primary": {
+                    "4a544b03229f001921d3fb02d5b423a2": "e9A0%XM{pc?^Mwx]R4tR$%D%IBIURPvzIo^+S~JUtRo}IWjDNGWCWU",
+                    "e444d5bb39d0baf15466efe37a95a771": "e9A0%XM{pc?^Mwx]R4tR$%D%IBIURPvzIo^+S~JUtRo}IWjDNGWCWU"
+                },
+                "Logo": {
+                    "dcfe8e65dd5f11ae70607b59936fba83": "OJQcn{of4n%M00%M4n-;Rjofj[M{ayof00t7ofWBt7ayj["
+                },
+                "Backdrop": {
+                    "afb6f4ecb71edb938af2299d88898fbd": "WbIrZ_Io_3oz?boz~qaxjsozM{oz_3ofRPt7M{WB_3WBV@ofayWB"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "Sleep Walking Orchestra",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "c108ca9d131f73bcbcca7ccac4ddf70f",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2356593200,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "ParentLogoItemId": "385fcb6330248b574b02bb666276c438",
+            "ParentBackdropItemId": "385fcb6330248b574b02bb666276c438",
+            "ParentBackdropImageTags": [
+                "e6a62da4eb3b6c5e2482c1b8b36be742"
+            ],
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "BUMP OF CHICKEN-Sleep Walking Orchestra-0000Sleep Walking Orchestra",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "BUMP OF CHICKEN"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "BUMP OF CHICKEN",
+                    "Id": "385fcb6330248b574b02bb666276c438"
+                }
+            ],
+            "Album": "Sleep Walking Orchestra",
+            "AlbumId": "4eb5f09e7e2495f23fdf93e147630384",
+            "AlbumPrimaryImageTag": "c41a7336456de382952cb7f14dd99e70",
+            "AlbumArtist": "BUMP OF CHICKEN",
+            "AlbumArtists": [
+                {
+                    "Name": "BUMP OF CHICKEN",
+                    "Id": "385fcb6330248b574b02bb666276c438"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "f75524682786687383ce320033fa7847"
+            },
+            "BackdropImageTags": [],
+            "ParentLogoImageTag": "de8e3105dd90c2be494bb2f5d781df9b",
+            "ImageBlurHashes": {
+                "Primary": {
+                    "f75524682786687383ce320033fa7847": "e8JWyzFw[p;},D{ySM-BOX$jb^N^WBnjE#WCB9$PNww{r?J*a}Sgs.",
+                    "c41a7336456de382952cb7f14dd99e70": "e8JWyzFw[p;},D{ySM-BOX$jb^N^WBnjE#WCB9$PNww{r?J*a}Sgs."
+                },
+                "Logo": {
+                    "de8e3105dd90c2be494bb2f5d781df9b": "OM9QmqfQ00j[?bayM{ayayj[j[j[ayWBIUfQxuayWBj[Rj"
+                },
+                "Backdrop": {
+                    "e6a62da4eb3b6c5e2482c1b8b36be742": "W~OV*w%KWBxZWBxZ~Vt7WCofafs.ofj[oeofjGoJs.oekBfkafjZ"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "回夏",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "22276d9e5ff2db849af04fe295534340",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2141174600,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "ParentLogoItemId": "b4b8290677b304f8e05132f9e516a591",
+            "ParentBackdropItemId": "b4b8290677b304f8e05132f9e516a591",
+            "ParentBackdropImageTags": [
+                "17ba15cf681a4a536e762947c0195eab"
+            ],
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "cadode-回夏-0000回夏",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "cadode"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "cadode",
+                    "Id": "b4b8290677b304f8e05132f9e516a591"
+                }
+            ],
+            "Album": "回夏",
+            "AlbumId": "a13d33b2173f43cd1371f1bd774caade",
+            "AlbumPrimaryImageTag": "654de33191209a6a411aec700aec60d3",
+            "AlbumArtist": "cadode",
+            "AlbumArtists": [
+                {
+                    "Name": "cadode",
+                    "Id": "b4b8290677b304f8e05132f9e516a591"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "72e3ae23cf0f32d535623a749a5cd9e1"
+            },
+            "BackdropImageTags": [],
+            "ParentLogoImageTag": "cd2cfe56ab15d667adfe8f32a506b628",
+            "ImageBlurHashes": {
+                "Primary": {
+                    "72e3ae23cf0f32d535623a749a5cd9e1": "eO9%}P0Q^Z9c%2Wun|WTj@fnkFWBobjbWaW@s-WXaxoet7WAaxobWB",
+                    "654de33191209a6a411aec700aec60d3": "eO9%}P0Q^Z9c%2Wun|WTj@fnkFWBobjbWaW@s-WXaxoet7WAaxobWB"
+                },
+                "Logo": {
+                    "cd2cfe56ab15d667adfe8f32a506b628": "OSQ,L1of9Ft79Fof4nxufQayfQfQfQj[00ayt7fQt7j[xu"
+                },
+                "Backdrop": {
+                    "17ba15cf681a4a536e762947c0195eab": "WeH.]3oz9Fxu%Mf+_NoftRozMxj[.8kCtRkCM{t7?vbHWBoff+a|"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "橙子汽水",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "0d3b5692ecef0e70648e4146dd2c24f4",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2381733330,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "ChiliChill-每到夜里我就很饿-0000橙子汽水",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "ChiliChill"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "Album": "每到夜里我就很饿",
+            "AlbumId": "d8b7ef7c73d906db4374a72d2d733063",
+            "AlbumPrimaryImageTag": "29c3048b83ac9ada263629ebd68eaa1b",
+            "AlbumArtist": "ChiliChill",
+            "AlbumArtists": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "6d2e08198862304d8585ec83b50018c5"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "6d2e08198862304d8585ec83b50018c5": "efM~9MRjHWWUGs*|X8XmniO?LLayniofrXv#niX8ayX8ofX8fkf6bH",
+                    "29c3048b83ac9ada263629ebd68eaa1b": "edM~9Mr?HWtRGs:QbbTdniO?PUX7n%kWrr$PniXSf+X8sAkWbbjFW;"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "酸的。",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "291676e3ad1c767d91cdd53873ca8d26",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 1971307710,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "ChiliChill-酸的。-0000酸的。",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "ChiliChill"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "Album": "酸的。",
+            "AlbumId": "a08f1d556182d41a3edfdaf7fe677b7d",
+            "AlbumPrimaryImageTag": "d06398f80be86cde34ad5562aa6ac25e",
+            "AlbumArtist": "ChiliChill",
+            "AlbumArtists": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "719e3afd10fbf4fad29a0a11217c68d2"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "719e3afd10fbf4fad29a0a11217c68d2": "eOO3%#_4WA?cx]?bMwtRx]WBt7V@bItRRi-:x]V@RPofx]ofV@RPRj",
+                    "d06398f80be86cde34ad5562aa6ac25e": "eOO3%#_4WA?cx]?bMwtRx]WBt7V@bItRRi-:x]V@RPofx]ofV@RPRj"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "难过233秒",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "4182acbe565af13e246dc39ef75bb06f",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2321710000,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "ChiliChill-每到夜里我就很饿-0000难过233秒",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "ChiliChill"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "Album": "每到夜里我就很饿",
+            "AlbumId": "d8b7ef7c73d906db4374a72d2d733063",
+            "AlbumPrimaryImageTag": "29c3048b83ac9ada263629ebd68eaa1b",
+            "AlbumArtist": "ChiliChill",
+            "AlbumArtists": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "cf995dac7cfe92a5b13aa23e1912db46"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "cf995dac7cfe92a5b13aa23e1912db46": "edM~9Mr?HWtRGs:QbbTdniO?PUX7n%kWrr$PniXSf+X8sAkWbbjFW;",
+                    "29c3048b83ac9ada263629ebd68eaa1b": "edM~9Mr?HWtRGs:QbbTdniO?PUX7n%kWrr$PniXSf+X8sAkWbbjFW;"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "丑马（翻自 乐正绫）",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "4a82465ec817e929efec67ac470cdd02",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2078079170,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "ChiliChill-丑马-0000丑马（翻自 乐正绫）",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "ChiliChill"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "Album": "丑马",
+            "AlbumId": "59a4fe0d8443de8876ea16cf132a2c41",
+            "AlbumPrimaryImageTag": "f9858e84f29213d42a90526bc9e9a015",
+            "AlbumArtist": "ChiliChill",
+            "AlbumArtists": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "9ad71f03a6e4961e103818ff98aff6ab"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "9ad71f03a6e4961e103818ff98aff6ab": "eJRp5y~px]~qRi~qoffRofay%Mj]M_ayt7_4j[j[t7j[M_ayxuj]Rj",
+                    "f9858e84f29213d42a90526bc9e9a015": "eJRp5y~px]~qRi~qoffRofay%Mj]M_ayt7_4j[j[t7j[M_ayxuj]Rj"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "新春游园",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "528f5dbf338a70f2133551ebc56d1a18",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 1562133330,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "ChiliChill-新春游园-0000新春游园",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "ChiliChill"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "Album": "新春游园",
+            "AlbumId": "6eee3aafca6bf379759ac8dc3f5cda2f",
+            "AlbumPrimaryImageTag": "55e927f35004a1a85302ef58f8b99d0f",
+            "AlbumArtist": "ChiliChill",
+            "AlbumArtists": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "72b2769ac96adf97886616a5ee7d3342"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "72b2769ac96adf97886616a5ee7d3342": "eeP%9Qt6_N%M-;jsWBt7ofkC?vbHMxofRPt8ayofofoJ%MofM{WBWV",
+                    "55e927f35004a1a85302ef58f8b99d0f": "eeP%9Qt6_N%M-;jsWBt7ofkC?vbHMxofRPt8ayofofoJ%MofM{WBWV"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "双人船",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "531ce6d12b5bad9ab59b499bedeef342",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2144986670,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "ChiliChill-每到夜里我就很饿-0000双人船",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "ChiliChill"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "Album": "每到夜里我就很饿",
+            "AlbumId": "d8b7ef7c73d906db4374a72d2d733063",
+            "AlbumPrimaryImageTag": "29c3048b83ac9ada263629ebd68eaa1b",
+            "AlbumArtist": "ChiliChill",
+            "AlbumArtists": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "a4956d515c196d0ce85f7d92fb9d8416"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "a4956d515c196d0ce85f7d92fb9d8416": "edM~9Mr?HWtRGs:QbbTdniO?PUX7n%kWrr$PniXSf+X8sAkWbbjFW;",
+                    "29c3048b83ac9ada263629ebd68eaa1b": "edM~9Mr?HWtRGs:QbbTdniO?PUX7n%kWrr$PniXSf+X8sAkWbbjFW;"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "Pink Flavor",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "57ea2c1d78af43c13922d949b5dc4a72",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 1409690630,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "ChiliChill-Pink Flavor-0000Pink Flavor",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "ChiliChill"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "Album": "Pink Flavor",
+            "AlbumId": "165cf26f9be58b5f65fc3077a2f54734",
+            "AlbumPrimaryImageTag": "f25682c5901114b7b7dda822c61a65e6",
+            "AlbumArtist": "ChiliChill",
+            "AlbumArtists": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "ce039cd392fd6dd1973d4f785f28935b"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "ce039cd392fd6dd1973d4f785f28935b": "eQReU5~q.S?HWB*yoeo3o0kW%zf6MxbGt7_3t7b]ayi{RiV[sDofR*",
+                    "f25682c5901114b7b7dda822c61a65e6": "eQReU5~q.S?HWB*yoeo3o0kW%zf6MxbGt7_3t7b]ayi{RiV[sDofR*"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "芭蕉夜雨",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "6090d3c7a90e8a1c9722b661aceb46cc",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2214001250,
+            "ProductionYear": 0,
+            "IndexNumber": 1,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "ChiliChill-芭蕉夜雨-0001芭蕉夜雨",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "ChiliChill"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "Album": "芭蕉夜雨",
+            "AlbumId": "f6e21ac801fb5fcba0d1995eed2df835",
+            "AlbumPrimaryImageTag": "66a5c4eac92b93caa8d3b45867ef6b74",
+            "AlbumArtist": "ChiliChill",
+            "AlbumArtists": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "0fe627ae1c39e014bb9c5ecd916374ec"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "0fe627ae1c39e014bb9c5ecd916374ec": "eFEEr8U8B1u1a_1Dr{iyWUs:E^x[#=n*WB%zM{.7g1Rjo}%3NFNFt7",
+                    "66a5c4eac92b93caa8d3b45867ef6b74": "eFEEr8U8B1u1a_1Dr{iyWUs:E^x[#=n*WB%zM{.7g1Rjo}%3NFNFt7"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "恋爱困难少女",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "68fd9c7fa0ea8d8d42193d8584fb23e3",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2487680000,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "ChiliChill-恋爱困难少女-0000恋爱困难少女",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "ChiliChill"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "Album": "恋爱困难少女",
+            "AlbumId": "5422b2d796cf9ce36e255c37e4ee3960",
+            "AlbumPrimaryImageTag": "8cbc067c356ba7faaab8478cda802e96",
+            "AlbumArtist": "ChiliChill",
+            "AlbumArtists": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "f5373cfe89d2cf9ffed78e5e22b7e99f"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "f5373cfe89d2cf9ffed78e5e22b7e99f": "eSQ7ni=_I=#TNw:5niWCnONG.TkDb^t7f,+_s9S}kBg2P:f+v#kCrr",
+                    "8cbc067c356ba7faaab8478cda802e96": "eSQ7ni=_I=#TNw:5niWCnONG.TkDb^t7f,+_s9S}kBg2P:f+v#kCrr"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "眼镜的葬礼",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "71b403de45dff922c1abf8f674d63679",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2364586670,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "ChiliChill-眼镜的葬礼-0000眼镜的葬礼",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "ChiliChill"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "Album": "眼镜的葬礼",
+            "AlbumId": "712fe0de901817cdc4ab8e0c889b43d0",
+            "AlbumPrimaryImageTag": "e9c9538e0c7889a125b3aa7491e8dcca",
+            "AlbumArtist": "ChiliChill",
+            "AlbumArtists": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "2fb2c493b0d39a7de178e1a118de7746"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "2fb2c493b0d39a7de178e1a118de7746": "eVQ,E+xYx^_NRjxZV@ozozWA%gtRM_MxWB_NtRM_RjkCRjaeayfkkC",
+                    "e9c9538e0c7889a125b3aa7491e8dcca": "eVQ,E+xYx^_NRjxZV@ozozWA%gtRM_MxWB_NtRM_RjkCRjaeayfkkC"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "有线耳机",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "8048c8eaa03bf09ac99ae99962364960",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2239146670,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "ChiliChill-有线耳机-0000有线耳机",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "ChiliChill",
+                "电鸟个灯泡"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                },
+                {
+                    "Name": "电鸟个灯泡",
+                    "Id": "7856097ea28b29b60d655a99c2ec99fc"
+                }
+            ],
+            "Album": "有线耳机",
+            "AlbumId": "9dabc3e1244b89264af5d821251bbe91",
+            "AlbumPrimaryImageTag": "9b3ab530871bc19a318fd633c18c8ca4",
+            "AlbumArtist": "ChiliChill",
+            "AlbumArtists": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                },
+                {
+                    "Name": "电鸟个灯泡",
+                    "Id": "7856097ea28b29b60d655a99c2ec99fc"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "eb194dda08a59334ec7a5bcbb91fe892"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "eb194dda08a59334ec7a5bcbb91fe892": "ePQcVO^+.T-;i^?HoztRn$ae.TWCI9s.S4_NjYRPo#WVaKjYbHS5of",
+                    "9b3ab530871bc19a318fd633c18c8ca4": "ePQcVO^+.T-;i^?HoztRn$ae.TWCI9s.S4_NjYRPo#WVaKjYbHS5of"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "灰色鹦鹉",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "9819e66a5b91e10172a24a1ba2377d43",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 1980967920,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "ChiliChill-灰色鹦鹉-0000灰色鹦鹉",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "ChiliChill",
+                "洛天依Official"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                },
+                {
+                    "Name": "洛天依Official",
+                    "Id": "827f0b9328a265673ee464d022c735ce"
+                }
+            ],
+            "Album": "灰色鹦鹉",
+            "AlbumId": "a995515c98768cd8de7a91dc40a9af4a",
+            "AlbumPrimaryImageTag": "31170ee2e1eaeffb59a27e0c20a36b2b",
+            "AlbumArtist": "ChiliChill",
+            "AlbumArtists": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                },
+                {
+                    "Name": "洛天依Official",
+                    "Id": "827f0b9328a265673ee464d022c735ce"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "7229d7e4aa7ec1a0481aaa381477e9ce"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "7229d7e4aa7ec1a0481aaa381477e9ce": "eBR3NF-;%~?baK~qaxM{t7ofyXofMcRjoztRt7%MWARj%2RjNGt7jF",
+                    "31170ee2e1eaeffb59a27e0c20a36b2b": "eBR3NF-;%~?baK~qaxM{t7ofyXofMcRjoztRt7%MWARj%2RjNGt7jF"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "山遥路远 (本家)",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "c24664bbb939dd411e76bc36e3a864a0",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2734053330,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "ChiliChill-山遥路远-0000山遥路远 (本家)",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "ChiliChill"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "Album": "山遥路远",
+            "AlbumId": "065b0fbd677dd58f2af764b99f16f190",
+            "AlbumPrimaryImageTag": "3ea87b881411838dc8baa6a9b162145d",
+            "AlbumArtist": "ChiliChill",
+            "AlbumArtists": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "5e277ae2d4d7db69ec218047c9332e75"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "5e277ae2d4d7db69ec218047c9332e75": "eiNwsI~p-:o#Rj~qMxRjRkozMxWYt7o0of-pkCRjbHWBxuNGWBj[t7",
+                    "3ea87b881411838dc8baa6a9b162145d": "eiNwsI~p-:o#Rj~qMxRjRkozMxWYt7o0of-pkCRjbHWBxuNGWBj[t7"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "时光盲盒",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "c49f8f2f3d7afe8409f8bac6371b3ecd",
+            "HasLyrics": true,
+            "Container": "mp3",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2872320000,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "ChiliChill-2021哔哩哔哩拜年纪-0000时光盲盒",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "ChiliChill"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "Album": "2021哔哩哔哩拜年纪",
+            "AlbumId": "c05cf996a2d903bd6ef6a8b80284dd6f",
+            "AlbumPrimaryImageTag": "89ca1b639843ce874168f7823f0d636d",
+            "AlbumArtist": "ChiliChill",
+            "AlbumArtists": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "96ef5c836fc2c0913cb3222b39fa2dd1"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "96ef5c836fc2c0913cb3222b39fa2dd1": "eHJZrS~B~B?t.8#Ir^B4J~a1MoxbKI9u,?j}-VnLoxS^v#r?EKI.9v",
+                    "89ca1b639843ce874168f7823f0d636d": "eHJZrS~B~B?t.8#Ir^B4J~a1MoxbKI9u,?j}-VnLoxS^v#r?EKI.9v"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "别让我担心 (Acoustic Ver.)",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "d4f4e0d189c18d27268af0fbbc2cc5a8",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2407571870,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "ChiliChill-别让我担心 (Acoustic Ver.)-0000别让我担心 (Acoustic Ver.)",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "ChiliChill"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "Album": "别让我担心 (Acoustic Ver.)",
+            "AlbumId": "b41ce14880664d24e63cccd9dde875fd",
+            "AlbumPrimaryImageTag": "5600d25b90eeb1b68c9df3c9ebd5a024",
+            "AlbumArtist": "ChiliChill",
+            "AlbumArtists": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "fbd1b39d9dfedbcfb0016db71554215b"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "fbd1b39d9dfedbcfb0016db71554215b": "eTN-xU}hTF?uX2yVr?ocbuf8cmxtrwM{sD.Po[aKnQfhR9M|W,xaW.",
+                    "5600d25b90eeb1b68c9df3c9ebd5a024": "eTN-xU}hTF?uX2yVr?ocbuf8cmxtrwM{sD.Po[aKnQfhR9M|W,xaW."
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "社畜少女",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "d6385c6e2593209e644fb8cd974e8b20",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2296553330,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "ChiliChill-每到夜里我就很饿-0000社畜少女",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "ChiliChill"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "Album": "每到夜里我就很饿",
+            "AlbumId": "d8b7ef7c73d906db4374a72d2d733063",
+            "AlbumPrimaryImageTag": "29c3048b83ac9ada263629ebd68eaa1b",
+            "AlbumArtist": "ChiliChill",
+            "AlbumArtists": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "15db4fa6607ff8e8adda5f662cfc0ac1"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "15db4fa6607ff8e8adda5f662cfc0ac1": "edM~9Mr?HWtRGs:QbbTdniO?PUX7n%kWrr$PniXSf+X8sAkWbbjFW;",
+                    "29c3048b83ac9ada263629ebd68eaa1b": "edM~9Mr?HWtRGs:QbbTdniO?PUX7n%kWrr$PniXSf+X8sAkWbbjFW;"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "我的悲伤是水做的",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "d85273d439cce3c6f58d6b526d97a901",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2269946670,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "ChiliChill-每到夜里我就很饿-0000我的悲伤是水做的",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "ChiliChill"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "Album": "每到夜里我就很饿",
+            "AlbumId": "d8b7ef7c73d906db4374a72d2d733063",
+            "AlbumPrimaryImageTag": "29c3048b83ac9ada263629ebd68eaa1b",
+            "AlbumArtist": "ChiliChill",
+            "AlbumArtists": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "5bde4abdd018082793aa5182e6801669"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "5bde4abdd018082793aa5182e6801669": "edM~9Mr?HWtRGs:QbbTdniO?PUX7n%kWrr$PniXSf+X8sAkWbbjFW;",
+                    "29c3048b83ac9ada263629ebd68eaa1b": "edM~9Mr?HWtRGs:QbbTdniO?PUX7n%kWrr$PniXSf+X8sAkWbbjFW;"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "不安灵魂收容所",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "daea57230e6fad5d10e1b05854b53962",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 1708580210,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "ChiliChill-不安灵魂收容所-0000不安灵魂收容所",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "ChiliChill"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "Album": "不安灵魂收容所",
+            "AlbumId": "6500047bf2527334ec7bcbac48bed7c0",
+            "AlbumPrimaryImageTag": "54dbb12de32f07dbd1b25b600bf6c049",
+            "AlbumArtist": "ChiliChill",
+            "AlbumArtists": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "b2f87009d3d26047f56fee87fbc598ef"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "b2f87009d3d26047f56fee87fbc598ef": "eiR.#h?aou-okBxzjIjcfSa#tOj[WFbIa}-:ozoHk9jrajaza#f6a#",
+                    "54dbb12de32f07dbd1b25b600bf6c049": "eiR.#h?aou-okBxzjIjcfSa#tOj[WFbIa}-:ozoHk9jrajaza#f6a#"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "心碎烧酒 Acoustic Ver.",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "e548cd241d7928ba3b6d1b0065c5617f",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2130773330,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "ChiliChill-心碎烧酒-0000心碎烧酒 Acoustic Ver.",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "ChiliChill"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "Album": "心碎烧酒",
+            "AlbumId": "77783a24ab2889572b820d8b4a32384f",
+            "AlbumPrimaryImageTag": "bd9a17d4fafcf9d6708ce9d4f32a40d5",
+            "AlbumArtist": "ChiliChill",
+            "AlbumArtists": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "eac1692af8159d4ed76693b8714d8090"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "eac1692af8159d4ed76693b8714d8090": "ePNK3S?b?bx^My_2xuk9ozs;_4ozoM%MRj-=oL%MbHWBWCM{aeM{NG",
+                    "bd9a17d4fafcf9d6708ce9d4f32a40d5": "ePNK3S?b?bx^My_2xuk9ozs;_4ozoM%MRj-=oL%MbHWBWCM{aeM{NG"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "入秋的第一场雨真让人矫情",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "f02281a4c290e9b760ceefc74940ceeb",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2539470000,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "ChiliChill-每到夜里我就很饿-0000入秋的第一场雨真让人矫情",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "ChiliChill"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "Album": "每到夜里我就很饿",
+            "AlbumId": "d8b7ef7c73d906db4374a72d2d733063",
+            "AlbumPrimaryImageTag": "29c3048b83ac9ada263629ebd68eaa1b",
+            "AlbumArtist": "ChiliChill",
+            "AlbumArtists": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "a2abe55b83f92bd3f60ff3fce8cc6ac6"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "a2abe55b83f92bd3f60ff3fce8cc6ac6": "edM~9Mr?HWtRGs:QbbTdniO?PUX7n%kWrr$PniXSf+X8sAkWbbjFW;",
+                    "29c3048b83ac9ada263629ebd68eaa1b": "edM~9Mr?HWtRGs:QbbTdniO?PUX7n%kWrr$PniXSf+X8sAkWbbjFW;"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "社畜烧酒",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "fdbfffc1bf80ea16660206d5e2cd9d54",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2301013330,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "ChiliChill-社畜烧酒-0000社畜烧酒",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "ChiliChill",
+                "洛天依"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                },
+                {
+                    "Name": "洛天依",
+                    "Id": "685343ece10a29421d897efd07dc7850"
+                }
+            ],
+            "Album": "社畜烧酒",
+            "AlbumId": "46bff0844088a02ed4ba3cedca31031a",
+            "AlbumPrimaryImageTag": "94d3527033eff61a51e7b33a8bfa7d15",
+            "AlbumArtist": "ChiliChill",
+            "AlbumArtists": [
+                {
+                    "Name": "ChiliChill",
+                    "Id": "b440e3857e43727c0af2aabaaad4e464"
+                },
+                {
+                    "Name": "洛天依",
+                    "Id": "685343ece10a29421d897efd07dc7850"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "51f6d6df5fde46cc237b29573d51833a"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "51f6d6df5fde46cc237b29573d51833a": "eC9tTM-=9Gb1?b%Lt6M{azxu4TIURiM{ofRpM|IUM{of-;ofazt7WB",
+                    "94d3527033eff61a51e7b33a8bfa7d15": "eC9tTM-=9Gb1?b%Lt6M{azxu4TIURiM{ofRpM|IUM{of-;ofazt7WB"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "summertime",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "abd4455f74452302111b8678b98329d9",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2518181870,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "cinnamons-summertime-0000summertime",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "cinnamons",
+                "evening cinema"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "cinnamons",
+                    "Id": "fcbef152752014518b6b4930482487cc"
+                },
+                {
+                    "Name": "evening cinema",
+                    "Id": "b84a9255189a622bf21ce91cc4c838ec"
+                }
+            ],
+            "Album": "summertime",
+            "AlbumId": "a8280dcace4480091311f9f0c3f15137",
+            "AlbumPrimaryImageTag": "4e82ab68c9bfd5b990dcc64455a88b30",
+            "AlbumArtist": "cinnamons",
+            "AlbumArtists": [
+                {
+                    "Name": "cinnamons",
+                    "Id": "fcbef152752014518b6b4930482487cc"
+                },
+                {
+                    "Name": "evening cinema",
+                    "Id": "b84a9255189a622bf21ce91cc4c838ec"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "61de663594cb594c5959cbece0f042a4"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "61de663594cb594c5959cbece0f042a4": "eWP%^c^ktSpw$+x{R*s*t8obKLr]sAX4i|~WoyOWwdi_S|X5OYbbay",
+                    "4e82ab68c9bfd5b990dcc64455a88b30": "eWP%^c^ktSpw$+x{R*s*t8obKLr]sAX4i|~WoyOWwdi_S|X5OYbbay"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "マネキン",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "16a6eb4aecc6f51071b6749a34cc86fc",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 1653733330,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 1,
+                "IsFavorite": false,
+                "LastPlayedDate": "2025-03-23T09:43:59.3126216Z",
+                "Played": true,
+                "Key": "DECO*27-マネキン-0000マネキン",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "DECO*27",
+                "初音 ミク"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "DECO*27",
+                    "Id": "667244876db6d4ace3770f05d6606df2"
+                },
+                {
+                    "Name": "初音 ミク",
+                    "Id": "cf688da771220a9e314862fea2f33442"
+                }
+            ],
+            "Album": "マネキン",
+            "AlbumId": "34768c4e75a00322d7fcef840cda0fbb",
+            "AlbumArtist": "DECO*27",
+            "AlbumArtists": [
+                {
+                    "Name": "DECO*27",
+                    "Id": "667244876db6d4ace3770f05d6606df2"
+                },
+                {
+                    "Name": "初音 ミク",
+                    "Id": "cf688da771220a9e314862fea2f33442"
+                }
+            ],
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "愛言葉IV",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "29a3cb0aaf2748048d406354042dac65",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2188133330,
+            "ProductionYear": 0,
+            "IndexNumber": 4,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "DECO*27-愛言葉-0004愛言葉IV",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "DECO*27",
+                "初音 ミク"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "DECO*27",
+                    "Id": "667244876db6d4ace3770f05d6606df2"
+                },
+                {
+                    "Name": "初音 ミク",
+                    "Id": "cf688da771220a9e314862fea2f33442"
+                }
+            ],
+            "Album": "愛言葉",
+            "AlbumId": "7f2abdc201557b7f22c976165f50e89c",
+            "AlbumPrimaryImageTag": "27367d4c6cf1418bde30380ad6f152f1",
+            "AlbumArtist": "DECO*27",
+            "AlbumArtists": [
+                {
+                    "Name": "DECO*27",
+                    "Id": "667244876db6d4ace3770f05d6606df2"
+                },
+                {
+                    "Name": "初音ミク",
+                    "Id": "bcf979fe626f66eb21a5ee3cb4bfbc35"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "fa1ca5917d3e578ef67e2fc7ff153c89"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "fa1ca5917d3e578ef67e2fc7ff153c89": "ekOC%B~U=_V^oy-qVYw[kXR-x[S6ROs:xu$%ozV@n$Sho{V[axj]ae",
+                    "27367d4c6cf1418bde30380ad6f152f1": "eNPGEa%M4.rE~q9YX8IoSztRTK%MeTNHiw_3a_%MVtju?bW;x]kVS~"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "愛言葉III",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "37e6816178dc6ec5330e445043484dca",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2463333330,
+            "ProductionYear": 0,
+            "IndexNumber": 3,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "DECO*27-愛言葉-0003愛言葉III",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "DECO*27",
+                "初音 ミク"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "DECO*27",
+                    "Id": "667244876db6d4ace3770f05d6606df2"
+                },
+                {
+                    "Name": "初音 ミク",
+                    "Id": "cf688da771220a9e314862fea2f33442"
+                }
+            ],
+            "Album": "愛言葉",
+            "AlbumId": "7f2abdc201557b7f22c976165f50e89c",
+            "AlbumPrimaryImageTag": "27367d4c6cf1418bde30380ad6f152f1",
+            "AlbumArtist": "DECO*27",
+            "AlbumArtists": [
+                {
+                    "Name": "DECO*27",
+                    "Id": "667244876db6d4ace3770f05d6606df2"
+                },
+                {
+                    "Name": "初音ミク",
+                    "Id": "bcf979fe626f66eb21a5ee3cb4bfbc35"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "9996ea329a1ebbcb878f930a48651453"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "9996ea329a1ebbcb878f930a48651453": "eUOfu^?bIt-;o{_NxuIUkBofE2R*oct7sp_NocRjaft6xuahaft7og",
+                    "27367d4c6cf1418bde30380ad6f152f1": "eNPGEa%M4.rE~q9YX8IoSztRTK%MeTNHiw_3a_%MVtju?bW;x]kVS~"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "愛言葉Ⅱ",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "7211d4c2ae90fd3232c553ade9538bc6",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 2658885260,
+            "ProductionYear": 0,
+            "IndexNumber": 2,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "DECO*27-愛言葉-0002愛言葉Ⅱ",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "DECO*27",
+                "初音 ミク"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "DECO*27",
+                    "Id": "667244876db6d4ace3770f05d6606df2"
+                },
+                {
+                    "Name": "初音 ミク",
+                    "Id": "cf688da771220a9e314862fea2f33442"
+                }
+            ],
+            "Album": "愛言葉",
+            "AlbumId": "7f2abdc201557b7f22c976165f50e89c",
+            "AlbumPrimaryImageTag": "27367d4c6cf1418bde30380ad6f152f1",
+            "AlbumArtist": "DECO*27",
+            "AlbumArtists": [
+                {
+                    "Name": "DECO*27",
+                    "Id": "667244876db6d4ace3770f05d6606df2"
+                },
+                {
+                    "Name": "初音ミク",
+                    "Id": "bcf979fe626f66eb21a5ee3cb4bfbc35"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "9381c54c16c3e7cc46be845c58935f12"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "9381c54c16c3e7cc46be845c58935f12": "eNPGEa%M4.rE~q9YX8IoSztRTK%MeTNHiw_3a_%MVtju?bW;x]kVS~",
+                    "27367d4c6cf1418bde30380ad6f152f1": "eNPGEa%M4.rE~q9YX8IoSztRTK%MeTNHiw_3a_%MVtju?bW;x]kVS~"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        },
+        {
+            "Name": "ヴァンパイア",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "7b601de47b3dac219cf3c077cf5589b5",
+            "HasLyrics": true,
+            "Container": "flac",
+            "PremiereDate": "0001-01-01T00:00:00.0000000Z",
+            "ChannelId": null,
+            "RunTimeTicks": 1782353290,
+            "ProductionYear": 0,
+            "IndexNumber": 0,
+            "IsFolder": false,
+            "Type": "Audio",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "DECO*27-ヴァンパイア-0000ヴァンパイア",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "Artists": [
+                "DECO*27",
+                "初音 ミク"
+            ],
+            "ArtistItems": [
+                {
+                    "Name": "DECO*27",
+                    "Id": "667244876db6d4ace3770f05d6606df2"
+                },
+                {
+                    "Name": "初音 ミク",
+                    "Id": "cf688da771220a9e314862fea2f33442"
+                }
+            ],
+            "Album": "ヴァンパイア",
+            "AlbumId": "5e9c012e5573b8099d60d9d5e6cdc474",
+            "AlbumPrimaryImageTag": "9b1fd5c9fc21620f43691e04701d9fa4",
+            "AlbumArtist": "DECO*27",
+            "AlbumArtists": [
+                {
+                    "Name": "DECO*27",
+                    "Id": "667244876db6d4ace3770f05d6606df2"
+                },
+                {
+                    "Name": "初音 ミク",
+                    "Id": "cf688da771220a9e314862fea2f33442"
+                }
+            ],
+            "ImageTags": {
+                "Primary": "877ae0cf6c1c88db9c9a16642fcc159f"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "877ae0cf6c1c88db9c9a16642fcc159f": "eSMhDc=x.:+v#8_%R+njn%OrQmR*pct7o|-B$NbHRQVYofNwW;xaxG",
+                    "9b1fd5c9fc21620f43691e04701d9fa4": "eSMhDc=x.:+v#8_%R+njn%OrQmR*pct7o|-B$NbHRQVYofNwW;xaxG"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Audio"
+        }
+    ],
+    "TotalRecordCount": 324,
+    "StartIndex": 0
+}
