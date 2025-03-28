@@ -25,7 +25,7 @@ function _setSource(audioId) {
 
 export const player = {
     setPlaylist: (newPlaylist, startFrom) => {
-        state.playlist = Array.of(newPlaylist)
+        state.playlist = Array.from(newPlaylist)
         if (state.playlist.length > 0 &&
             startFrom >= 0 &&
             startFrom < state.playlist.length) {
@@ -105,4 +105,4 @@ export const player = {
     },
 }
 
-audioTag.addEventListener("ended", player.playNext())
+audioTag.addEventListener("ended", player.playNext)

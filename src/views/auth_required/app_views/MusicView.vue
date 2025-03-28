@@ -34,7 +34,7 @@ function loadPage(index) {
 
 function play(index) {
   player.setPlaylist(
-    state['data']['Items'].map((item) => item['Id']),
+    state.value['data']['Items'].map((item) => item['Id']),
     index,
   )
   player.play()
