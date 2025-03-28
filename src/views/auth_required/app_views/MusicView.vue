@@ -1,6 +1,6 @@
 <script setup>
 import { getSongs } from '@/jellyfin/browsing'
-import { getAudioImageStreamUrl } from '@/jellyfin/stream'
+import { getImageStreamUrl } from '@/jellyfin/stream'
 import { player } from '@/audio_player'
 import GenericList from '@/component/GenericList.vue'
 
@@ -13,10 +13,10 @@ function play(index, playlist) {
 }
 </script>
 <template>
-  <GenericList :fetcher="getSongs" per-page="50">
+  <GenericList :fetcher="getSongs" per-page="50" :use-grid="false">
     <template v-slot="{ item, index, arr }">
       <div :key="item.Id" @click="play(index, arr)" class="music-tile">
-        <img :src="getAudioImageStreamUrl(item.AlbumId, 56)" />
+        <img :src="getImageStreamUrl(item.AlbumId, 56)" />
         <div class="music-tile-info">
           <span>{{ item.Name }}</span>
           <div class="music-tile-artists">

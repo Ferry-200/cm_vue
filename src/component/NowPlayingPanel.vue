@@ -1,7 +1,7 @@
 <script setup>
 import { useNowPlayingId, usePlayerState } from '@/composables'
 import { getSongInfo } from '@/jellyfin/browsing'
-import { getAudioImageStreamUrl } from '@/jellyfin/stream'
+import { getImageStreamUrl } from '@/jellyfin/stream'
 import { computed, shallowRef, watchEffect } from 'vue'
 import MDFilledIconButton from './MDFilledIconButton.vue'
 import { Pause, Play, SkipForward, SkipBack } from 'lucide-vue-next'
@@ -38,7 +38,7 @@ watchEffect((onCleanup) => {
   })
 })
 
-const nowPlayingImgUrl = computed(() => getAudioImageStreamUrl(nowPlayingId.value, 252))
+const nowPlayingImgUrl = computed(() => getImageStreamUrl(nowPlayingId.value, 252))
 const isPaused = usePlayerState()
 </script>
 <template>

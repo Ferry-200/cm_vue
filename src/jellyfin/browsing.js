@@ -7,7 +7,7 @@ export function getSongs(offset, size) {
     return getItemsApi(jellyfinApi).getItems({
         sortBy: ItemSortBy.Artist,
         sortOrder: SortOrder.Ascending,
-        includeItemTypes: BaseItemKind.Audio,
+        includeItemTypes: [BaseItemKind.Audio],
         recursive: true,
         startIndex: offset,
         limit: size
@@ -24,6 +24,18 @@ export function getArtists(offset, size) {
     return getArtistsApi(jellyfinApi).getArtists({
         sortBy: ItemSortBy.Name,
         sortOrder: SortOrder.Ascending,
+        recursive: true,
+        startIndex: offset,
+        limit: size
+    }).then((val) => val.data)
+}
+
+export function getAlbums(offset, size) {
+    return getItemsApi(jellyfinApi).getItems({
+        sortBy: ItemSortBy.Artist,
+        sortOrder: SortOrder.Ascending,
+        includeItemTypes: [BaseItemKind.MusicAlbum],
+        recursive: true,
         startIndex: offset,
         limit: size
     }).then((val) => val.data)

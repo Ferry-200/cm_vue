@@ -1,7 +1,10 @@
 <script setup>
-const { fetcher, perPage } = defineProps({
+const { fetcher, perPage, useGrid, gridItemWidth, gridGap } = defineProps({
   fetcher: Function,
   perPage: Number,
+  useGrid: Boolean,
+  gridItemWidth: Number,
+  gridGap: Number,
 })
 import MDScrollArea from '@/component/MDScrollArea.vue'
 import { useAsyncState } from '@vueuse/core'
@@ -35,12 +38,30 @@ function loadPage(index) {
 </script>
 <template>
   <MDScrollArea v-if="isReady">
-    <slot
-      v-for="(item, index) of state['Items']"
-      :item="item"
-      :index="index"
-      :arr="state['Items']"
-    ></slot>
+    <template v-if="useGrid">
+      <div
+        class="grid-view"
+        :style="{
+          gridTemplateColumns: `repeat(auto-fill, minmax(${gridItemWidth}px, 1fr))`,
+          gap: `${gridGap}px`,
+        }"
+      >
+        <slot
+          v-for="(item, index) of state['Items']"
+          :item="item"
+          :index="index"
+          :arr="state['Items']"
+        ></slot>
+      </div>
+    </template>
+    <template v-else>
+      <slot
+        v-for="(item, index) of state['Items']"
+        :item="item"
+        :index="index"
+        :arr="state['Items']"
+      ></slot>
+    </template>
 
     <MDPagingArea
       style="margin: 8px"
@@ -50,3 +71,8 @@ function loadPage(index) {
     />
   </MDScrollArea>
 </template>
+<style scoped>
+.grid-view {
+  display: grid;
+}
+</style>
