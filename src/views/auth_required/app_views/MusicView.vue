@@ -4,8 +4,8 @@ import { getSongs } from '@/jellyfin/browsing'
 import { useAsyncState } from '@vueuse/core'
 import { ref, watchEffect } from 'vue'
 import MDPagingArea from '@/component/MDPagingArea.vue'
-import { audioPlayer } from '@/audio_player'
-import { getAudioImageStreamUrl, getAudioStreamUrl } from '@/jellyfin/stream'
+import { getAudioImageStreamUrl } from '@/jellyfin/stream'
+import { player } from '@/audio_player'
 
 const pageIndex = ref(0)
 const pageCount = ref(0)
@@ -32,17 +32,20 @@ function loadPage(index) {
   execute(0, [pageIndex.value * 50, 50])
 }
 
-function playAudio(aid) {
-  audioPlayer.setSourceUrl(getAudioStreamUrl(aid))
-  audioPlayer.play()
+function play(index) {
+  player.setPlaylist(
+    state['data']['Items'].map((item) => item['Id']),
+    index,
+  )
+  player.play()
 }
 </script>
 <template>
   <MDScrollArea v-if="isReady">
     <div
-      v-for="music of state['data']['Items']"
+      v-for="(music, index) of state['data']['Items']"
       :key="music['Id']"
-      @click="playAudio(music['Id'])"
+      @click="play(index)"
       class="music-tile"
     >
       <img :src="getAudioImageStreamUrl(music['AlbumId'], 56)" />
