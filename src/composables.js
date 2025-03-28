@@ -5,7 +5,7 @@ import { player } from "./audio_player";
  * @returns now playing id, may be undefined
  */
 export function useNowPlayingId() {
-    const nowPlayingId = ref(undefined)
+    const nowPlayingId = ref(player.nowPlayingId())
     const update = () => {
         nowPlayingId.value = player.nowPlayingId()
     }
@@ -14,7 +14,7 @@ export function useNowPlayingId() {
         unsubscribe = player.onNowPlayingChanged(update)
     })
     onUnmounted(() => {
-        unsubscribe()
+        unsubscribe && unsubscribe()
     })
 
     return nowPlayingId
@@ -24,7 +24,7 @@ export function useNowPlayingId() {
  * @returns position in secs
  */
 export function usePlayerPositon() {
-    const pos = ref(0)
+    const pos = ref(player.getPosition())
     const update = () => {
         pos.value = player.getPosition()
     }
@@ -33,7 +33,7 @@ export function usePlayerPositon() {
         unsubscribe = player.onPositionChanged(update)
     })
     onUnmounted(() => {
-        unsubscribe()
+        unsubscribe && unsubscribe()
     })
 
     return pos
@@ -43,7 +43,7 @@ export function usePlayerPositon() {
  * @returns duration in secs
  */
 export function usePlayerDuration() {
-    const duration = ref(0)
+    const duration = ref(player.getDuration())
     const update = () => {
         duration.value = player.getDuration()
     }
@@ -52,7 +52,7 @@ export function usePlayerDuration() {
         unsubscribe = player.onDurationChanged(update)
     })
     onUnmounted(() => {
-        unsubscribe()
+        unsubscribe && unsubscribe()
     })
 
     return duration
@@ -62,25 +62,22 @@ export function usePlayerDuration() {
  * @returns is playing
  */
 export function usePlayerState() {
-    const isPlaying = ref(false)
-    const _onPaused = () => {
-        isPlaying.value = false
-    }
-    const _onPlayed = () => {
-        isPlaying.value = true
+    const isPaused = ref(player.getIsPaused())
+    const update = () => {
+        isPaused.value = player.getIsPaused()
     }
 
     let unsubscribeOnPaused;
     let unsubscribeOnPlayed;
 
     onMounted(() => {
-        unsubscribeOnPaused = player.onPaused(_onPaused)
-        unsubscribeOnPlayed = player.onPlayed(_onPlayed)
+        unsubscribeOnPaused = player.onPaused(update)
+        unsubscribeOnPlayed = player.onPlayed(update)
     })
     onUnmounted(() => {
-        unsubscribeOnPaused()
-        unsubscribeOnPlayed()
+        unsubscribeOnPaused && unsubscribeOnPaused()
+        unsubscribeOnPlayed && unsubscribeOnPlayed()
     })
 
-    return isPlaying
+    return isPaused
 }

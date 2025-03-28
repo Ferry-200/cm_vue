@@ -33,8 +33,16 @@ export const player = {
         }
         _setSource(state.playlist[startFrom])
     },
+    getIsPaused: () => audioTag.paused,
     play: () => audioTag.play(),
     pause: () => audioTag.pause(),
+    toggle: () => {
+        if (audioTag.paused) {
+            audioTag.play()
+        } else {
+            audioTag.pause()
+        }
+    },
     /**
      * @param {number} pos in secs 
      * @returns 

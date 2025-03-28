@@ -13,3 +13,9 @@ export function getSongs(offset, size) {
         limit: size
     })
 }
+
+export function getSongInfo(id) {
+    return getItemsApi(jellyfinApi).getItems({
+        ids: [id]
+    }).then((val) => val.data.Items[0])
+}

@@ -11,6 +11,7 @@ function emitClose() {
 
 import MDNavDrawerDes from './MDNavDrawerDes.vue'
 import { Music, Users, DiscAlbum } from 'lucide-vue-next'
+import NowPlayingPanel from './NowPlayingPanel.vue'
 
 const routes = [
   { path: '/', name: '音乐', icon: Music },
@@ -41,6 +42,7 @@ const routes = [
             <template #default>{{ item.name }}</template>
           </MDNavDrawerDes>
         </template>
+        <NowPlayingPanel />
       </nav>
     </Transition>
   </Teleport>
@@ -64,6 +66,8 @@ nav {
   border-radius: 0 12px 12px 0;
   background-color: var(--md-surface);
   padding: 0 12px;
+  display: flex;
+  flex-direction: column;
 }
 
 .nav-header {
