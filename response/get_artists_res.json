@@ -1,0 +1,1250 @@
+{
+    "Items": [
+        {
+            "Name": "25\u6642\u3001\u30CA\u30A4\u30C8\u30B3\u30FC\u30C9\u3067\u3002",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "41d00f61438b48bcd2b54206cb9acfbf",
+            "ChannelId": null,
+            "RunTimeTicks": 7970381860,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-2d5bd5f2-d0fa-4dd8-ba72-c1fea94a0ae0",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "40mP",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "49587a83aa3afe1ac9c1e2f005af561e",
+            "ChannelId": null,
+            "RunTimeTicks": 5980235140,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-e1719c24-118e-425b-8f94-954dcf583fb0",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "957",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "71e50916620579b9c524d917280281b6",
+            "ChannelId": null,
+            "RunTimeTicks": 5143886680,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-79fa3ed1-ee73-457c-96a3-f61d04e0d2c5",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "A-Flow",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "56b5caedc4ae067521430bbeae4e2d22",
+            "ChannelId": null,
+            "RunTimeTicks": 2160000000,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-A-Flow",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "Akie\u79CB\u7ED8",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "e533ecfc7336aa403a22f58476c3a1ef",
+            "ChannelId": null,
+            "RunTimeTicks": 22063542850,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Akie\u79CB\u7ED8",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "Apo11o program",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "a5a15ce297db5bfbd79c61ef76c5fd99",
+            "ChannelId": null,
+            "RunTimeTicks": 1584000000,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-247b1255-7d86-4090-8b23-78944731b605",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "Arcaea_Team",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "4a5f5d0af71e4a92be8e05a534c1844c",
+            "ChannelId": null,
+            "RunTimeTicks": 1338939370,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Arcaea_Team",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "BUMP OF CHICKEN",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "385fcb6330248b574b02bb666276c438",
+            "ChannelId": null,
+            "RunTimeTicks": 2356593200,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-0f718079-e5ea-4cfb-b512-b2d04da66901",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {
+                "Primary": "02288b8ccfd702d56ac586edf1e73d42",
+                "Logo": "de8e3105dd90c2be494bb2f5d781df9b"
+            },
+            "BackdropImageTags": [
+                "e6a62da4eb3b6c5e2482c1b8b36be742"
+            ],
+            "ImageBlurHashes": {
+                "Backdrop": {
+                    "e6a62da4eb3b6c5e2482c1b8b36be742": "W~OV*w%KWBxZWBxZ~Vt7WCofafs.ofj[oeofjGoJs.oekBfkafjZ"
+                },
+                "Primary": {
+                    "02288b8ccfd702d56ac586edf1e73d42": "eP4Ds9VqV=jDj^t:bcVsemkBnxkDRPV?oxkCoyROV@t7o~oyRjWCt7"
+                },
+                "Logo": {
+                    "de8e3105dd90c2be494bb2f5d781df9b": "OM9QmqfQ00j[?bayM{ayayj[j[j[ayWBIUfQxuayWBj[Rj"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "ChiliChill",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "b440e3857e43727c0af2aabaaad4e464",
+            "ChannelId": null,
+            "RunTimeTicks": 46416305420,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-3360de99-2f4b-45d0-9c5c-b6cfb43e5edf",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "DECO*27",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "667244876db6d4ace3770f05d6606df2",
+            "ChannelId": null,
+            "RunTimeTicks": 16095771870,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-bd247ab3-c22d-4b5d-a6fd-437771cacbbe",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {
+                "Primary": "820488533c63a6e7599f5ae9c2a0ba37"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "820488533c63a6e7599f5ae9c2a0ba37": "ebEf.*M{S~tlWV4TxuxuWVjuxuM{R5oKayaKWBayofoeMxxuofRjof"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "ENE",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "4f4915f8d63d3a62bb41a1521ec4755f",
+            "ChannelId": null,
+            "RunTimeTicks": 2656400000,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-62482f99-4ddc-4f29-bf6b-e776e9ef8c3b",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "Eve",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "0fe9ed96f2edb170d5a837953f6a1082",
+            "ChannelId": null,
+            "RunTimeTicks": 4014751250,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-1ac10f5e-2079-4435-b78f-dda6ecdeba15",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {
+                "Primary": "a392750466c8b0020fff9d363dd87478",
+                "Logo": "605ef2f205d4310d9f44b92861fe72c9"
+            },
+            "BackdropImageTags": [
+                "a37814bc62ff2f0599b6e567b985fea2"
+            ],
+            "ImageBlurHashes": {
+                "Backdrop": {
+                    "a37814bc62ff2f0599b6e567b985fea2": "WFBpkNM|?wRnofo~_Njb%gW=xuo#Iot7t7t7xuWroyM{xuofWXt7"
+                },
+                "Primary": {
+                    "a392750466c8b0020fff9d363dd87478": "eVI3?oMw1hIp-TXnRP-oWCR*R\u002BR*r]ofI:9xR%R-W;n%WFayf6oeWX"
+                },
+                "Logo": {
+                    "605ef2f205d4310d9f44b92861fe72c9": "O]KKm8fQ~qof.8oft7%MjtR*fQR*a|oLtRj[WBayWBj[jt"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "G.E.M. \u9093\u7D2B\u68CB",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "1519dc16cd664fe1b709a7b9826df27a",
+            "ChannelId": null,
+            "RunTimeTicks": 12157621650,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-7c5e567c-0f96-4623-a981-fbe67aeaa0c9",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {
+                "Primary": "c446535f6083aef3ac7c9929a737e143"
+            },
+            "BackdropImageTags": [
+                "23942a2c9f43035ea95f03db656d18d8"
+            ],
+            "ImageBlurHashes": {
+                "Backdrop": {
+                    "23942a2c9f43035ea95f03db656d18d8": "WnLz?d%1%N_4-;?b~qogj[t7xut7?bD*M{t6oMof_4WAWCxvt6j]"
+                },
+                "Primary": {
+                    "c446535f6083aef3ac7c9929a737e143": "eMDvD.0LI=~VIoWC-;NGxaoMI=xu?G9Zj?NGt7xuM{WBRjxuRjRixu"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "Goose house",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "37a8da54f4a2bd5ccdd0a5b4e3681886",
+            "ChannelId": null,
+            "RunTimeTicks": 2820963269,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-46c8042e-881e-431c-adea-57c975bd0018",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {
+                "Primary": "66f8d3f7921c96f16eb14aca0b388635",
+                "Logo": "0f838c52e9930618abf97ced7ea77509"
+            },
+            "BackdropImageTags": [
+                "e206ebdacca15a2651f75bec3e1e4f1a"
+            ],
+            "ImageBlurHashes": {
+                "Backdrop": {
+                    "e206ebdacca15a2651f75bec3e1e4f1a": "WSPGsv~qX7?vt7-;~qt7M{kBtQofofRjjZkBNFWB?vozt7t7WBay"
+                },
+                "Primary": {
+                    "66f8d3f7921c96f16eb14aca0b388635": "eODJ@p00?vIoaes\u002BM{ofWBWAyExuRPxuRkoeRjjZozazkCazWBfkj]"
+                },
+                "Logo": {
+                    "0f838c52e9930618abf97ced7ea77509": "OdGu,kt700WBD$RjWCM{oft7WBayWBWBNGj[t6axWCa#t6"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "Guiano",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "8953a793fac06ab40831f03aefaa17cb",
+            "ChannelId": null,
+            "RunTimeTicks": 4340640000,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-7c2efebb-217e-4162-89ef-93b0d300974e",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "HOYO-MiX",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "9396456cb76c55b6d01fa38925cad570",
+            "ChannelId": null,
+            "RunTimeTicks": 11502591080,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-9df7ddfb-75fe-4470-9269-5810d9263b09",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {
+                "Primary": "dff0380f1874e3d987f92772fb8fed75",
+                "Logo": "f7252bf40b2a40d282bd8f2ed72d2418"
+            },
+            "BackdropImageTags": [
+                "b07b66d7724d83f335c9527065d7c238"
+            ],
+            "ImageBlurHashes": {
+                "Backdrop": {
+                    "b07b66d7724d83f335c9527065d7c238": "WeSZ93-;$%?bt6?a_4off7ofoLof=_ofNHaeR*WV~qofj[ofR\u002BbI"
+                },
+                "Primary": {
+                    "dff0380f1874e3d987f92772fb8fed75": "eQSG3$?bR\u002B_3oe_3ofazoffQ~Axts.WBWC~Wt6oLoffj58RkWVoes."
+                },
+                "Logo": {
+                    "f7252bf40b2a40d282bd8f2ed72d2418": "Oj6T5rVukWj=aekDkCaej[fRayj[f7j]MHoyaeafkCaxae"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "Hanser",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "563731124b741e8c755ef2f3f216a64a",
+            "ChannelId": null,
+            "RunTimeTicks": 3677422090,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-abb6e8e2-2be6-4f2e-88d7-19836a127a14",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "HoneyWorks",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "1622f713f52465c2d63b00bbd04ed69c",
+            "ChannelId": null,
+            "RunTimeTicks": 8584620400,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-1dc670f7-1a43-4a71-973a-2ad181f4edd4",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {
+                "Primary": "cb0262d1b6e1cb6f4f99fda0a210bece",
+                "Logo": "185287a73cf185735e529f7f14eaef71"
+            },
+            "BackdropImageTags": [
+                "7bc56df1f67f3b291e4211c587eeaff7"
+            ],
+            "ImageBlurHashes": {
+                "Backdrop": {
+                    "7bc56df1f67f3b291e4211c587eeaff7": "WlN,V%T}TcRVI_t.%59$R,o#M|g2EBI^Rnt6rqsk%iOHj[xVr;t6"
+                },
+                "Primary": {
+                    "cb0262d1b6e1cb6f4f99fda0a210bece": "ejNmA~u6%z%2em-pE6NFxuV@NOI]IXXAa%XBOaS$S$NHWENMNLozof"
+                },
+                "Logo": {
+                    "185287a73cf185735e529f7f14eaef71": "O[H2crj[WBj[WBfQayoffQayfQfQfQay00ayofayoffQj["
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "H\u25B3G",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "cc0f7feded6ff83b73b06256b2a91651",
+            "ChannelId": null,
+            "RunTimeTicks": 1482240000,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-84306022-264d-4351-a710-adb828e38a23",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "IA",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "37e9deda1ccd9e3bfe854fe8b76909a3",
+            "ChannelId": null,
+            "RunTimeTicks": 2427036730,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-e60d22ee-7e77-44ab-93a0-54f986e112af",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "Iris",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "9dac3f5328fdd51db3a5ff3011f47de8",
+            "ChannelId": null,
+            "RunTimeTicks": 1646639999,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-749d093d-b2f7-4e59-81bc-a47218914d9a",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "JELEE",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "b7f5fa3c798c45e923507f7e73fa115d",
+            "ChannelId": null,
+            "RunTimeTicks": 2227745800,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-8c2d5703-4140-4af4-85b4-61274f853e65",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "KAITO",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "9ede255ed649b7d8d4aa35af6e6e3664",
+            "ChannelId": null,
+            "RunTimeTicks": 5891383080,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-33672b7a-91e0-4167-8725-a1897584a0da",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {
+                "Primary": "e66f0183a5d7678c4dd4f03d5f6cbf15"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "e66f0183a5d7678c4dd4f03d5f6cbf15": "erIhEVsm%gtRs:~qWB-:xuWBOER*sTs:NGt7s:M{RkWC?HofRkfkof"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "KIV\u039B",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "bea8d1d494e93d0b900f6478e4ef660c",
+            "ChannelId": null,
+            "RunTimeTicks": 1829040000,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-168857d6-d2bc-4ce8-be3d-6c37949a8416",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "Kitauji Quartet",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "4fe9d9529240acfeac8075b4be73e627",
+            "ChannelId": null,
+            "RunTimeTicks": 2584555100,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-8ccca91e-b41c-46ea-8c2b-a63165dcdf6c",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "Kotoha",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "89bf1a9b6ff079666ab84c3cb387d70a",
+            "ChannelId": null,
+            "RunTimeTicks": 3070955100,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-c2fbffd8-2e2b-49b6-94dd-ba953ac12ebe",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "Lefty Hand Cream",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "1808e8202f5d31319b19d6a796337faf",
+            "ChannelId": null,
+            "RunTimeTicks": 3110400000,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-b1b5cb84-4610-442c-86fc-efa2d867ff3e",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "Leo need",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "54cd862ad432d824173264248fc063fd",
+            "ChannelId": null,
+            "RunTimeTicks": 5013146670,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-6765dfdf-40a1-4bdb-a595-4a0abcc32681",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "LiSA",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "5fb9b51bced55615bd637b0c430a6cc8",
+            "ChannelId": null,
+            "RunTimeTicks": 2360000000,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-85d76093-9865-4605-97fa-8c910929d366",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {
+                "Primary": "fa0fb718f58cb93a237d42f726f8bed4",
+                "Logo": "853d2f307342a32deed348cea2679256"
+            },
+            "BackdropImageTags": [
+                "9715a7c286c61d7d3141ac9c0270c640"
+            ],
+            "ImageBlurHashes": {
+                "Backdrop": {
+                    "9715a7c286c61d7d3141ac9c0270c640": "WgPqBv=3vO[0%2=|~DWAjG$*ozi|xaNFo|buogi{^ka1n%WBxtt7"
+                },
+                "Primary": {
+                    "fa0fb718f58cb93a237d42f726f8bed4": "eVI.5G-Vq^VFOB}FS#I:RjNa5lWBS}t6$QIpJ7kVbvs:MxRjtQxuW;"
+                },
+                "Logo": {
+                    "853d2f307342a32deed348cea2679256": "O.MsvUr?_NXS?bSggNj[WVj[s:j[R*kCS~Wpr?n%WBsosA"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "Lia",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "7782f13f2156187b21e7a09d6be0701c",
+            "ChannelId": null,
+            "RunTimeTicks": 2537273470,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-9d9d1d36-1fed-44e2-9069-9398284e9f6c",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "Luke Thompson",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "0207e44313fafa831ec48635b1b02b95",
+            "ChannelId": null,
+            "RunTimeTicks": 2050986850,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-9925ea91-1200-4fea-a40f-6a45d78e86ab",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "MAD",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "d558481d80df5d427dbe12cf5889c4df",
+            "ChannelId": null,
+            "RunTimeTicks": 2385395830,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-b972f589-fb0e-474e-b64a-803b0364fa75",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {
+                "Primary": "89a12dad0478177ce01cfb12078bfcb6",
+                "Logo": "b6a14d340f6bfbdf4b07db2dd0e29fab"
+            },
+            "BackdropImageTags": [
+                "50915c499c094599c6b2c01034014878"
+            ],
+            "ImageBlurHashes": {
+                "Backdrop": {
+                    "50915c499c094599c6b2c01034014878": "WjDRQbNa0#-U-UEMtQjGRkbbs:WBR\u002BbGs.jbR\u002BoKofjZWCfks.WB"
+                },
+                "Primary": {
+                    "89a12dad0478177ce01cfb12078bfcb6": "eXDkDF-A0#9]$*TIS#RQV[s:RkjuxZsnWBRkjZt6X7S2NbWVsnoLfk"
+                },
+                "Logo": {
+                    "b6a14d340f6bfbdf4b07db2dd0e29fab": "OOEfTiRj~qM{~qRj_3t7j[t7fQRjofofj[xut7ofofoffQ"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "MEIKO",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "83bb1eb74b329b805724de11c85756e1",
+            "ChannelId": null,
+            "RunTimeTicks": 4384426670,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-935b9c64-39c0-42b7-a4f5-2566f1878fdb",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {
+                "Primary": "e6598a1a98d72e6f7d5dfaf615880bf3",
+                "Logo": "24c88f9b734d06083d118f511e5063e6"
+            },
+            "BackdropImageTags": [
+                "f711a59bb9337c9c4400aad3b2727445"
+            ],
+            "ImageBlurHashes": {
+                "Backdrop": {
+                    "f711a59bb9337c9c4400aad3b2727445": "WZJtLyIV02?a9b4p_1RjIVx[WBM|NHRkoyofn$oz-oV[RjozR\u002BWC"
+                },
+                "Primary": {
+                    "e6598a1a98d72e6f7d5dfaf615880bf3": "eGK]Gf^*8bKP.83XxHKko~-pAwEk=|-oJUTIEzxtW.M|XS$koI-oM{"
+                },
+                "Logo": {
+                    "24c88f9b734d06083d118f511e5063e6": "O~Lg^Zofofayt7j[j[offQayfQj[j[j[~qj[ayj[WBayay"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "MIMI",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "846ed6e7b58eaaf897e315da884430f6",
+            "ChannelId": null,
+            "RunTimeTicks": 7401484990,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-bbfd8f80-0d5a-414a-8631-4320553ac788",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "MORE MORE JUMP\uFF01",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "46e059ec4c0b57afaa4ff2f77f9ed828",
+            "ChannelId": null,
+            "RunTimeTicks": 2411333330,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-3c266653-0bdb-4699-a6ec-a42f1d5ded54",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "Mili",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "ab0fc11352f77bc20c301a9747ae47cf",
+            "ChannelId": null,
+            "RunTimeTicks": 2358316100,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-d2a92ee2-27ce-4e71-bfc5-12e34fe8ef56",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "Mitchie M",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "9985f6fdde1c4c9c85d46b6281eb2781",
+            "ChannelId": null,
+            "RunTimeTicks": 2085000000,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-e447a971-e4e2-4ea7-9330-472deb070e90",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "More More Jump",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "5e594cc1542f05d8ac158446df07bcbc",
+            "ChannelId": null,
+            "RunTimeTicks": 4801093330,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-3c266653-0bdb-4699-a6ec-a42f1d5ded54",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "MyGO!!!!!",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "a1f822fc080e2ea7fd80cf00eeb797df",
+            "ChannelId": null,
+            "RunTimeTicks": 28434824479,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-be91faa6-5277-4b73-b97c-10786db10598",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "NEONA",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "a4f22d5a4fd1bed9bd9942a8c15bc20a",
+            "ChannelId": null,
+            "RunTimeTicks": 2098593880,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-67acd20e-e77f-4626-8bb2-29daf417f087",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "Nanou",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "6650542c38e5e094899f12431e80595c",
+            "ChannelId": null,
+            "RunTimeTicks": 3067704380,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-70426a1b-43c9-4e4d-837b-7988c09f13bf",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "Night Keepers \u5B88\u591C\u4EBA",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "ffeaba106f6965ba95403478a763dbd0",
+            "ChannelId": null,
+            "RunTimeTicks": 2427975620,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Night Keepers \u5B88\u591C\u4EBA",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "ONE OK ROCK",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "360993ead3e4b7bd789c7112d15a5291",
+            "ChannelId": null,
+            "RunTimeTicks": 21915066660,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-6ef00829-fa94-4fee-a5a6-b28e1208e96a",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {
+                "Primary": "3ffc36d9b9f1826d4aa5ad39ecfc3fe5",
+                "Logo": "020fd9a5dca521dab51e97a1ce9b5d68"
+            },
+            "BackdropImageTags": [
+                "2d968e59b2dcccf18e30be972580cd6d"
+            ],
+            "ImageBlurHashes": {
+                "Backdrop": {
+                    "2d968e59b2dcccf18e30be972580cd6d": "WG84-?%g4n9Fi_%2~q%M9F9Ft7%M^\u002B%1Di9Ft8.8-:xuIUD%t7-;"
+                },
+                "Primary": {
+                    "3ffc36d9b9f1826d4aa5ad39ecfc3fe5": "eQCGrox]4n9Fxa?btR8_V@xt~qjF9FIUxuxGofIAfjt7%NkCNGogt7"
+                },
+                "Logo": {
+                    "020fd9a5dca521dab51e97a1ce9b5d68": "OvIrBDRjxut7xuayt7ofWBofj[ofWBfQ~qRjWBofayWBWB"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "OSTER project",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "43e2e491060aab1ef3fe84062a6e65c2",
+            "ChannelId": null,
+            "RunTimeTicks": 2595200000,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-0f4b08d1-32dd-498c-b513-5689f547ddb4",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {
+                "Primary": "0a5bda485fcf4e867a82205286f76b0b"
+            },
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {
+                "Primary": {
+                    "0a5bda485fcf4e867a82205286f76b0b": "egO:hTxG_No|R\u002ByDR*j[xuM{%gf\u002BD%sAxtxuoLofRjbbofs:RjRja|"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "PIKASONIC",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "5f6f1c5b7bdc7f488f065aeff1b491de",
+            "ChannelId": null,
+            "RunTimeTicks": 8375631520,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-81ce14d7-f806-4015-ab6c-84d081991c3f",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "Powerless",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "c54e529ebbd6a17b28714ae169598d71",
+            "ChannelId": null,
+            "RunTimeTicks": 1756080000,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-34cebbee-d6bc-486b-ae6b-f5bdef605055",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "RADWIMPS",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "1e74cdcd1b8474788de8fbde52bb5966",
+            "ChannelId": null,
+            "RunTimeTicks": 30790798259,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-6f500293-7396-4903-b4fd-118127d06f9e",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {
+                "Primary": "0730488ff3ee09de6de6e00d9e2efc22",
+                "Logo": "0c3cae3b04c5cf51c00c95b653e42ffd"
+            },
+            "BackdropImageTags": [
+                "5508ee444950a1af2447130784d31237"
+            ],
+            "ImageBlurHashes": {
+                "Backdrop": {
+                    "5508ee444950a1af2447130784d31237": "WSLOTf-;%g%Nof.8_Nt6aza#WCt7WBazj]kBV[V[?vogj]j[WBkC"
+                },
+                "Primary": {
+                    "0730488ff3ee09de6de6e00d9e2efc22": "eJC7TzX;4naJD*%$p0MxRORj00V?$\u002Beox@9YoH%Nogx[a1smj?o}Rj"
+                },
+                "Logo": {
+                    "0c3cae3b04c5cf51c00c95b653e42ffd": "OeQJfm%MRjRjM{ofj[t7j[ayayayj[j[~qRjt7t7t7j[j["
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "Rin\u97F3",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "5f5ba369fd395c40eea3b1ecba5379b4",
+            "ChannelId": null,
+            "RunTimeTicks": 2821746940,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-fbadd503-55c1-4e61-81f0-bbee769f1da0",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "SLSMusic",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "9868d0d6cbfb5967bc0011584ec8635a",
+            "ChannelId": null,
+            "RunTimeTicks": 1829040000,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-fa720452-a85d-486a-b173-bb08541c8f8a",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {},
+            "BackdropImageTags": [],
+            "ImageBlurHashes": {},
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        },
+        {
+            "Name": "SPYAIR",
+            "ServerId": "bb9257057efc4de8a59e03fb52886e65",
+            "Id": "26162202cd195215571180bc08bc7874",
+            "ChannelId": null,
+            "RunTimeTicks": 2352063330,
+            "Type": "MusicArtist",
+            "UserData": {
+                "PlaybackPositionTicks": 0,
+                "PlayCount": 0,
+                "IsFavorite": false,
+                "Played": false,
+                "Key": "Artist-Musicbrainz-668d4190-f273-4470-9d1a-15d4d2d589c6",
+                "ItemId": "00000000000000000000000000000000"
+            },
+            "ImageTags": {
+                "Primary": "77c837823ff212bfaf320525b62df4a7",
+                "Logo": "575d683fff6c7290c0d8760d84d19f49"
+            },
+            "BackdropImageTags": [
+                "7910587034ceda0c3ed5fac09ef2228e"
+            ],
+            "ImageBlurHashes": {
+                "Backdrop": {
+                    "7910587034ceda0c3ed5fac09ef2228e": "W~L4mGofxttQWBRk~qofbHt7WBoe-;j[ayofayof%Layj[j[j[j["
+                },
+                "Primary": {
+                    "77c837823ff212bfaf320525b62df4a7": "eaKU$c-;Rj^\u002B_N.8IURj%M%Mayx]oeRiWB_3t7f5WAx]WBa}ayR*oJ"
+                },
+                "Logo": {
+                    "575d683fff6c7290c0d8760d84d19f49": "O~Lg^Zj[ofofofayofj[j[fQfQayfQj[~qj[WBfQWBofay"
+                }
+            },
+            "LocationType": "FileSystem",
+            "MediaType": "Unknown"
+        }
+    ],
+    "TotalRecordCount": 203,
+    "StartIndex": 0
+}
