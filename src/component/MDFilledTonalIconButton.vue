@@ -20,8 +20,8 @@ button {
   align-items: center;
   justify-content: center;
   cursor: pointer;
-  background-color: var(--md-secondary-container);
-  color: var(--md-on-secondary-container);
+  background-color: var(--md-secondary);
+  color: var(--md-on-secondary);
 }
 
 button::before {
@@ -34,10 +34,10 @@ button::before {
 }
 
 button:hover::before {
-  background-color: var(--md-secondary-container-hover);
+  background-color: var(--md-secondary-hover);
 }
 
 button:active::before {
-  background-color: var(--md-secondary-container-active);
+  background-color: var(--md-secondary-active);
 }
 </style>
