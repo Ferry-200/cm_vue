@@ -9,13 +9,22 @@ import ImgWithFallback from '@/component/ImgWithFallback.vue'
 <template>
   <GenericList
     :fetcher="getAlbums"
-    per-page="50"
+    :per-page="50"
     :use-grid="true"
-    grid-item-width="112"
-    grid-gap="8"
+    :grid-item-width="112"
+    :grid-gap="8"
   >
     <template v-slot="{ item }">
-      <RouterLink :key="item.Id" class="album-item">
+      <RouterLink
+        :key="item.Id"
+        class="album-item"
+        :to="{
+          path: 'album/detail',
+          query: {
+            id: item.Id,
+          },
+        }"
+      >
         <ImgWithFallback
           class="album-img"
           :src="getImageStreamUrl(item.Id, 96)"

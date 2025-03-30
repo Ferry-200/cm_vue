@@ -16,6 +16,8 @@ const routesName = {
   '/': '音乐',
   '/artist': '艺术家',
   '/album': '专辑',
+  '/artist/detail': '详情',
+  '/album/detail': '详情',
 }
 </script>
 <template>

@@ -9,13 +9,22 @@ import imageOff from '@/assets/image-off.svg'
 <template>
   <GenericList
     :fetcher="getArtists"
-    per-page="50"
+    :per-page="50"
     :use-grid="true"
-    grid-item-width="112"
-    grid-gap="8"
+    :grid-item-width="112"
+    :grid-gap="8"
   >
     <template v-slot="{ item }">
-      <RouterLink :key="item.Id" class="artist-item">
+      <RouterLink
+        :key="item.Id"
+        class="artist-item"
+        :to="{
+          path: 'artist/detail',
+          query: {
+            id: item.Id,
+          },
+        }"
+      >
         <ImgWithFallback
           class="artist-img"
           :src="getImageStreamUrl(item.Id, 96)"

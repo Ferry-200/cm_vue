@@ -15,7 +15,7 @@ function play(index, playlist) {
 }
 </script>
 <template>
-  <GenericList :fetcher="getSongs" per-page="50" :use-grid="false">
+  <GenericList :fetcher="getSongs" :per-page="50" :use-grid="false">
     <template v-slot="{ item, index, arr }">
       <div :key="item.Id" @click="play(index, arr)" class="music-tile">
         <ImgWithFallback
