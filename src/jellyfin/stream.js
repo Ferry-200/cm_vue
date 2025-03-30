@@ -22,7 +22,7 @@ export function getAudioStreamUrl(itemId) {
  * @returns 
  */
 export function getImageStreamUrl(itemId, size) {
-    const resolvedSize = Math.floor(size * window.devicePixelRatio)
+    const resolvedSize = Math.floor((size || 0) * window.devicePixelRatio)
     const uri = jellyfinApi.axiosInstance.getUri({
         url: `/Items/${itemId}/Images/Primary`,
         params: {
