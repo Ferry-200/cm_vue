@@ -15,6 +15,7 @@ const nowPlaying = shallowRef({
   title: 'Coriander Music',
   artists: '',
   album: '',
+  albumId: '',
 })
 
 watchEffect((onCleanup) => {
@@ -30,17 +31,19 @@ watchEffect((onCleanup) => {
       let newTitle = val.Name || ''
       let newArtists = val.Artists || []
       let newAlbum = val.Album || ''
+      let newAlbumId = val.AlbumId || ''
 
       nowPlaying.value = {
         title: newTitle,
         artists: newArtists.join(' | '),
         album: newAlbum,
+        albumId: newAlbumId,
       }
     }
   })
 })
 
-const nowPlayingImgUrl = computed(() => getImageStreamUrl(nowPlayingId.value, 252))
+const nowPlayingImgUrl = computed(() => getImageStreamUrl(nowPlaying.value.albumId, 252))
 const isPaused = usePlayerState()
 </script>
 <template>
