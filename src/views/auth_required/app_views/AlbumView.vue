@@ -2,6 +2,8 @@
 import GenericList from '@/component/GenericList.vue'
 import { getAlbums } from '@/jellyfin/browsing'
 import { getImageStreamUrl } from '@/jellyfin/stream'
+import imageOff from '@/assets/image-off.svg'
+import ImgWithFallback from '@/component/ImgWithFallback.vue'
 </script>
 
 <template>
@@ -14,7 +16,11 @@ import { getImageStreamUrl } from '@/jellyfin/stream'
   >
     <template v-slot="{ item }">
       <RouterLink :key="item.Id" class="album-item">
-        <img :src="getImageStreamUrl(item.Id, 96)" />
+        <ImgWithFallback
+          class="album-img"
+          :src="getImageStreamUrl(item.Id, 96)"
+          :fallback="imageOff"
+        />
         <span>{{ item.Name }}</span>
       </RouterLink>
     </template>
@@ -50,7 +56,7 @@ import { getImageStreamUrl } from '@/jellyfin/stream'
   background-color: var(--md-surface-active);
 }
 
-img {
+.album-img {
   width: 100%;
   height: auto;
   border-radius: 8px;

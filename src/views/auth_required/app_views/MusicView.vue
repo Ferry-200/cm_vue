@@ -3,6 +3,8 @@ import { getSongs } from '@/jellyfin/browsing'
 import { getImageStreamUrl } from '@/jellyfin/stream'
 import { player } from '@/audio_player'
 import GenericList from '@/component/GenericList.vue'
+import ImgWithFallback from '@/component/ImgWithFallback.vue'
+import imageOff from '@/assets/image-off.svg'
 
 function play(index, playlist) {
   player.setPlaylist(
@@ -16,7 +18,11 @@ function play(index, playlist) {
   <GenericList :fetcher="getSongs" per-page="50" :use-grid="false">
     <template v-slot="{ item, index, arr }">
       <div :key="item.Id" @click="play(index, arr)" class="music-tile">
-        <img :src="getImageStreamUrl(item.AlbumId, 56)" />
+        <ImgWithFallback
+          :src="getImageStreamUrl(item.AlbumId, 56)"
+          :fallback="imageOff"
+          class="music-tile-img"
+        />
         <div class="music-tile-info">
           <span>{{ item.Name }}</span>
           <div class="music-tile-artists">
@@ -64,7 +70,7 @@ function play(index, playlist) {
   background-color: var(--md-surface-active);
 }
 
-img {
+.music-tile-img {
   width: 56px;
   height: 56px;
   border-radius: 4px;

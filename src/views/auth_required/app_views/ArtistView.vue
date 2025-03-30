@@ -1,7 +1,9 @@
 <script setup>
 import GenericList from '@/component/GenericList.vue'
+import ImgWithFallback from '@/component/ImgWithFallback.vue'
 import { getArtists } from '@/jellyfin/browsing'
 import { getImageStreamUrl } from '@/jellyfin/stream'
+import imageOff from '@/assets/image-off.svg'
 </script>
 
 <template>
@@ -14,7 +16,11 @@ import { getImageStreamUrl } from '@/jellyfin/stream'
   >
     <template v-slot="{ item }">
       <RouterLink :key="item.Id" class="artist-item">
-        <img :src="getImageStreamUrl(item.Id, 96)" />
+        <ImgWithFallback
+          class="artist-img"
+          :src="getImageStreamUrl(item.Id, 96)"
+          :fallback="imageOff"
+        />
         <span>{{ item.Name }}</span>
       </RouterLink>
     </template>
@@ -50,9 +56,9 @@ import { getImageStreamUrl } from '@/jellyfin/stream'
   background-color: var(--md-surface-active);
 }
 
-img {
+.artist-img {
   width: 100%;
   height: auto;
-  border-radius: 50%;
+  border-radius: 8px;
 }
 </style>

@@ -7,6 +7,8 @@ import MDFilledIconButton from './MDFilledIconButton.vue'
 import { Pause, Play, SkipForward, SkipBack } from 'lucide-vue-next'
 import { player } from '@/audio_player'
 import MDFilledTonalIconButton from './MDFilledTonalIconButton.vue'
+import imageOff from '@/assets/image-off.svg'
+import ImgWithFallback from '@/component/ImgWithFallback.vue'
 
 const nowPlayingId = useNowPlayingId()
 const nowPlaying = shallowRef({
@@ -46,7 +48,7 @@ const isPaused = usePlayerState()
     <span>{{ nowPlaying.title }}</span>
     <span>{{ nowPlaying.artists }}</span>
     <span>{{ nowPlaying.album }}</span>
-    <img :src="nowPlayingImgUrl" />
+    <ImgWithFallback :src="nowPlayingImgUrl" :fallback="imageOff" class="now-playing-img" />
     <div class="action-row">
       <MDFilledTonalIconButton :click="player.playPrev">
         <SkipBack />
@@ -83,7 +85,7 @@ span {
   font-size: 14px;
 }
 
-img {
+.now-playing-img {
   width: 252px;
   height: 252px;
   border-radius: 8px;
